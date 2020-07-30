@@ -1,0 +1,866 @@
+Claim ID,Provider,Office,Examroom,Date of Service,Diagnosis,Patient,DOB,Insurer,Claim Office #,Ins ID #,Price,Quantity,Billed,Allowed,Adjustment,Pri Ins Paid,Sec Ins Paid,Patient Paid,Ins Balance,Pt Balance,Billing Note,First EDI,Last EDI,Status
+150913304,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/27/2020,"H10.32, Z87.59",Jessica Posey,1992-01-25,Prospect Medical Group (PROSP),,NCF576M87032,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-29,2020-07-29,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150941918,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/27/2020,"J01.90, R51, I10, Z20.828",June R. Dojillo,1972-09-11,Blue Shield of California (94036),,XEA902965321,,,$335.00,$335.00,$0.00,$0.00,$0.00,$0.00,$335.00,$0.00,,2020-07-29,2020-07-29,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS:95,Dx Ptrs: 1:2:3:4,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: CS:95,Dx Ptrs: 1:0:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+150961428,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/27/2020,U07.1,Oswaldo (Tony) A. Ayala,1986-12-24,St. Jude Affiliated Physicians (STJOE),,XEH909068817,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-07-29,2020-07-29,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 22:95,Dx Ptrs: 1:0:0:0,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+151055627,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/28/2020,R10.13,Jody M. Dyer,1975-03-27,Blue Shield of California (94036),,LSK904826088,,,$305.00,$305.00,$0.00,$0.00,$0.00,$0.00,$305.00,$0.00,,2020-07-29,2020-07-29,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+151070837,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/28/2020,"F03.90, R30.0, R53.1",James (Jim) V. Gonzalez,1930-09-17,St. Jude Affiliated Physicians (STJOE),,XEH902221523,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-29,2020-07-29,Payer Acknowledged
+,,,,,99442: PHONE E/M PHYS/QHP 11-20 MIN,Modifiers: 22,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+151073543,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/28/2020,R35.0,Beatrice Gonzalez,1935-04-06,St. Jude Affiliated Physicians (STJOE),,XEE902221602,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-29,2020-07-29,Payer Acknowledged
+,,,,,99442: PHONE E/M PHYS/QHP 11-20 MIN,Modifiers: 22,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+151074656,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/30/2020,Z20.828,Rod Ammari,1968-03-04,Blue Shield of CA (94036),,R51018461,,,$845.00,$845.00,$0.00,$0.00,$0.00,$0.00,$845.00,$0.00,,,,Not Submitted
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$60.00,1.00,$60.00,$60.00,$0.00,$0.00,$0.00,$0.00,$60.00,$0.00,,,,
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+151107025,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/30/2020,Z20.828,Lauren Heberer,1987-01-04,Blue Cross of California (47198),,JQH517A75640,,,$845.00,$845.00,$0.00,$0.00,$0.00,$0.00,$845.00,$0.00,,,,Not Submitted
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$60.00,1.00,$60.00,$60.00,$0.00,$0.00,$0.00,$0.00,$60.00,$0.00,,,,
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+151166013,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/30/2020,Z20.828,Lyndsey Jordan,1992-04-17,Cigna (62308),,104464468,,,$845.00,$845.00,$0.00,$0.00,$0.00,$0.00,$845.00,$0.00,,,,Not Submitted
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$60.00,1.00,$60.00,$60.00,$0.00,$0.00,$0.00,$0.00,$60.00,$0.00,,,,
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+151211414,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/30/2020,Z20.828,Anne Marie Broadhead,1973-08-08,Blue Shield of California (94036),,XED908974242,,,$845.00,$845.00,$0.00,$0.00,$0.00,$0.00,$845.00,$0.00,,,,Not Submitted
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$60.00,1.00,$60.00,$60.00,$0.00,$0.00,$0.00,$0.00,$60.00,$0.00,,,,
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+150588638,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/28/2020,"Z01.419, Z12.4, Z11.51",Kelly Hainlen,1978-11-20,United HealthCare of all states (87726),,914363934,,,$300.00,$300.00,$0.00,$0.00,$0.00,$0.00,$300.00,$0.00,,2020-07-29,2020-07-29,Payer Acknowledged
+,,,,,99396: PREV VISIT EST AGE 40-64,Modifiers: 25,Dx Ptrs: 1:0:0:0,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+,,,,,96127: BRIEF EMOTIONAL/BEHAV ASSMT,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$50.00,1.00,$50.00,$50.00,$0.00,$0.00,$0.00,$0.00,$50.00,$0.00,,,,
+,,,,,Q0091: Obtaining screen pap smear,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$50.00,1.00,$50.00,$50.00,$0.00,$0.00,$0.00,$0.00,$50.00,$0.00,,,,
+150782673,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/27/2020,"R10.9, I10",Brenda Simpson,1941-09-30,Caremore Health Plan (CARMO),,ARK381M97358,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-07-29,2020-07-29,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 25,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,36415: ROUTINE VENIPUNCTURE,Modifiers: ,Dx Ptrs: 1:2:0:0,,,,$30.00,1.00,$30.00,$30.00,$0.00,$0.00,$0.00,$0.00,$30.00,$0.00,,,,
+150810909,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/24/2020,Z20.828,Rod Ammari,1968-03-04,Blue Shield of CA (94036),,R51018461,,,$195.00,$195.00,$0.00,$0.00,$0.00,$0.00,$195.00,$0.00,,2020-07-27,2020-07-27,ERA Denied
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+150813645,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/27/2020,Z20.828,Barbara A. Zwawa,1962-09-19,CIGNA (62308),,U5797664001,,,$340.00,$340.00,$0.00,$0.00,$0.00,$0.00,$340.00,$0.00,,2020-07-29,2020-07-29,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150817420,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/24/2020,"R51, Z20.828, K62.5, Z86.010",Marco (Tony) A. Banuelos,1965-03-30,Blue Shield of California (94036),,XEH907075436,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-27,2020-07-27,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 22:CS:95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150819113,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/24/2020,"R51, R07.0, B30.9",Brianna M. Clements,2001-01-22,St. Jude Affiliated Physicians (STJOE),,XEH906530090,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-27,2020-07-27,Rejected Gateway
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 22:CS:95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150836725,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/25/2020,"R05, Z20.828",Jason N. Mondragon,2007-12-07,Blue Cross of California (47198),,MDEE00895953,,,$405.00,$405.00,$0.00,$0.00,$0.00,$0.00,$405.00,$0.00,,2020-07-27,2020-07-27,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS:95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: CS:95,Dx Ptrs: 1:2:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: ,Dx Ptrs: 1:2:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: ,Dx Ptrs: 1:2:0:0,,,,$60.00,1.00,$60.00,$60.00,$0.00,$0.00,$0.00,$0.00,$60.00,$0.00,,,,
+150897089,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/27/2020,"I10, E03.9",Aurelia Bojarro,1939-05-24,St. Jude Affiliated Physicians (STJOE),,XEH980494109,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-29,2020-07-29,Payer Acknowledged
+,,,,,99442: PHONE E/M PHYS/QHP 11-20 MIN,Modifiers: ,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150907753,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/27/2020,"I10, N18.4, I48.91, Z79.01",Peter Herrera Jr,1952-10-08,Prospect Medical Group (PROSP),,H41916761,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-07-29,2020-07-29,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+150936394,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/27/2020,"R53.83, M79.10",Carole Ginoza,1961-03-11,St. Jude Affiliated Physicians (STJOE),877-270-7226,40037544101,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-29,2020-07-29,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150398612,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/24/2020,"N52.9, F50.00, F64.0",Cassidy M. Costello-Brandon,1995-04-27,St. Jude Affiliated Physicians (STJOE),,XEO907077026,,,$250.00,$250.00,$0.00,$0.00,$0.00,$0.00,$250.00,$0.00,,2020-07-26,2020-07-26,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,Q3014: Telehealth facility fee,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$100.00,1.00,$100.00,$100.00,$0.00,$0.00,$0.00,$0.00,$100.00,$0.00,,,,
+150556662,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/24/2020,Z23,Sue Yun Lii,1954-09-10,Blue Cross of California (47198),,JQE802W00950,,,$195.00,$195.00,$0.00,$0.00,$0.00,$0.00,$195.00,$0.00,,2020-07-26,2020-07-26,Payer Acknowledged
+,,,,,99211: OFFICE/OUTPATIENT VISIT EST,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+,,,,,90715: TDAP VACCINE 7 YRS/> IM,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$80.00,1.00,$80.00,$80.00,$0.00,$0.00,$0.00,$0.00,$80.00,$0.00,,,,
+,,,,,90471: IMMUNIZATION ADMIN,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+150585441,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/24/2020,Z20.828,Adam Garcia,1983-04-02,Apple Care Medical Management (APP01),,NCF740W03759,,,$265.00,$265.00,$0.00,$0.00,$0.00,$0.00,$265.00,$0.00,,2020-07-27,2020-07-27,Payer Acknowledged
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,99211: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150589277,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/24/2020,"Z23, R92.8",Constance Smith,1965-02-11,Aetna Health Plans (60054),,825641481,,,$195.00,$195.00,$0.00,$0.00,$0.00,$0.00,$195.00,$0.00,,2020-07-26,2020-07-26,Payer Acknowledged
+,,,,,99212: OFFICE/OUTPATIENT VISIT EST,Modifiers: 25,Dx Ptrs: 1:0:0:0,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+,,,,,90715: TDAP VACCINE 7 YRS/> IM,Modifiers: ,Dx Ptrs: 2:0:0:0,,,,$80.00,1.00,$80.00,$80.00,$0.00,$0.00,$0.00,$0.00,$80.00,$0.00,,,,
+,,,,,90471: IMMUNIZATION ADMIN,Modifiers: ,Dx Ptrs: 2:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+150643579,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/23/2020,"Z20.828, R05, R06.00, R53.81",Mary K. OConnor,1945-10-01,St. Jude Affiliated Physicians (STJOE),,XEE902354398,,,$340.00,$340.00,$0.00,$0.00,$0.00,$0.00,$340.00,$0.00,,2020-07-24,2020-07-24,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:2:3:4,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150661724,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/23/2020,M54.5,Anna Segura,1979-01-08,St. Jude Affiliated Physicians (STJOE),,XDM722A54725,,,$265.00,$265.00,$0.00,$0.00,$0.00,$0.00,$265.00,$0.00,,2020-07-24,2020-07-24,Payer Acknowledged
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99212: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+150782282,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/24/2020,R10.9,Brenda Simpson,1941-09-30,Caremore Health Plan (CARMO),,ARK381M97358,,,$250.00,$250.00,$0.00,$0.00,$0.00,$0.00,$250.00,$0.00,,2020-07-26,2020-07-26,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,Q3014: Telehealth facility fee,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$100.00,1.00,$100.00,$100.00,$0.00,$0.00,$0.00,$0.00,$100.00,$0.00,,,,
+150791993,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/24/2020,M54.5,Kathy Rennegarbe,1970-10-14,St. Jude Affiliated Physicians (STJOE),,NCF392A55229,,,$290.00,$290.00,$0.00,$0.00,$0.00,$0.00,$290.00,$0.00,,2020-07-26,2020-07-26,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,Q3014: Telehealth facility fee,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$100.00,1.00,$100.00,$100.00,$0.00,$0.00,$0.00,$0.00,$100.00,$0.00,,,,
+,,,,,1111F: DSCHRG MED/CURRENT MED MERGE,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+150796389,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/24/2020,R42,Nichelle Iiams,1985-06-04,Blue Shield of California (94036),,XEKK00012324,,,$405.00,$405.00,$0.00,$0.00,$0.00,$0.00,$405.00,$0.00,,2020-07-27,2020-07-27,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+,,,,,Q3014: Telehealth facility fee,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$100.00,1.00,$100.00,$100.00,$0.00,$0.00,$0.00,$0.00,$100.00,$0.00,,,,
+150854378,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/26/2020,"R06.00, Z20.828",Jennifer Rios,1977-04-23,Prospect Medical Group (PROSP),,NCF277W05508,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-26,2020-07-26,Rejected Payer: None
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS:95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150359035,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/20/2020,"R07.0, Z20.828",Michelle Vasquez,1985-03-06,United HealthCare of all states (87726),,935318046,,,$340.00,$340.00,$0.00,$0.00,$0.00,$0.00,$340.00,$0.00,,2020-07-22,2020-07-22,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150364296,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/20/2020,"R10.13, Z86.19",Anna Garzya,1969-07-15,Prospect Medical Group (PROSP),,94963796A,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-22,2020-07-22,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150382705,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/20/2020,"R19.7, Z33.1, Z20.828",Chrystal Guarin,1991-02-19,Blue Shield of California (94036),,XEK909376768,,,$405.00,$405.00,$0.00,$0.00,$0.00,$0.00,$405.00,$0.00,,2020-07-22,2020-07-27,Payer Acknowledged
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150384938,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/20/2020,"M79.10, R68.83",Sean C. Decker,1975-08-08,UMR/Midwest Securities (79480),,19660698,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-22,2020-07-22,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150401509,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/20/2020,Z20.828,Cynthia A. Valdez,1942-11-26,Caremore Health Plan (CARMO),,ARK987M97280,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-22,2020-07-22,Payer Acknowledged
+,,,,,99442: PHONE E/M PHYS/QHP 11-20 MIN,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150409399,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/20/2020,"B02.9, Z79.02",Samira Shakhshir,1940-01-10,Medicare of California Southern (01182),,1RX1NR7CV03,,,$305.00,$305.00,$0.00,$0.00,$0.00,$0.00,$305.00,$0.00,,2020-07-22,2020-07-22,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+150411610,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/20/2020,"M54.16, Z79.02",Sandra Muhar,1959-11-10,United HealthCare of all states (87726),,902634910,,,$305.00,$305.00,$0.00,$0.00,$0.00,$0.00,$305.00,$0.00,,2020-07-22,2020-07-22,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+150441506,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/21/2020,R10.30,Tori Marvel,2003-04-03,St. Jude Affiliated Physicians (STJOE),,XEH909230365,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-22,2020-07-22,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150448698,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/21/2020,H10.10,Allie J. Britton,2011-02-09,St. Jude Affiliated Physicians (STJOE),,XEH906651465,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-22,2020-07-22,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150623839,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Add On,01/05/2016,"F41.9, M45.9",Rebekah Baez,1974-06-23,Tricare West Region (99726),,522755041,,,$250.00,$250.00,$0.00,$0.00,$0.00,$0.00,$250.00,$0.00,,2020-07-24,2020-07-24,ERA Denied
+,,,,,99204: OFFICE/OUTPATIENT VISIT NEW,Modifiers: ,Dx Ptrs: 1:2:0:0,,,,$250.00,1.00,$250.00,$250.00,$0.00,$0.00,$0.00,$0.00,$250.00,$0.00,,,,
+147890263,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/17/2020,"Z00.01, E11.65, Z91.19, Z20.828",Caris Gulick,1965-05-12,Prospect Medical Group (PROSP),,NCF630A52289,,,$400.00,$400.00,$0.00,$0.00,$0.00,$0.00,$400.00,$0.00,,2020-07-22,2020-07-22,Payer Acknowledged
+,,,,,99396: PREV VISIT EST AGE 40-64,Modifiers: 25,Dx Ptrs: 1:0:0:0,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+,,,,,96127: BRIEF EMOTIONAL/BEHAV ASSMT,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$50.00,1.00,$50.00,$50.00,$0.00,$0.00,$0.00,$0.00,$50.00,$0.00,,,,
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: ,Dx Ptrs: 2:3:4:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149922469,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/21/2020,Z23,Isabel Torres,1970-10-10,Apple Care Medical Management (APP01),,NCF781A51707,,,$490.00,$490.00,$0.00,$0.00,$0.00,$0.00,$490.00,$0.00,,2020-07-22,2020-07-22,Payer Acknowledged
+,,,,,99211: OFFICE/OUTPATIENT VISIT EST,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+,,,,,90707: MMR VACCINE SC,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$185.00,1.00,$185.00,$185.00,$0.00,$0.00,$0.00,$0.00,$185.00,$0.00,,,,
+,,,,,90746: HEPB VACCINE 3 DOSE ADULT IM,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$120.00,1.00,$120.00,$120.00,$0.00,$0.00,$0.00,$0.00,$120.00,$0.00,,,,
+,,,,,90471: IMMUNIZATION ADMIN,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$40.00,2.00,$80.00,$80.00,$0.00,$0.00,$0.00,$0.00,$80.00,$0.00,,,,
+,,,,,90472: IMMUNIZATION ADMIN EACH ADD,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$30.00,1.00,$30.00,$30.00,$0.00,$0.00,$0.00,$0.00,$30.00,$0.00,,,,
+150159014,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/21/2020,Z23,Chelsea F. Connolly,1998-09-18,St. Jude Affiliated Physicians (STJOE),,U7413938703,,,$235.00,$235.00,$0.00,$0.00,$0.00,$0.00,$235.00,$0.00,,2020-07-22,2020-07-22,Payer Acknowledged
+,,,,,99211: OFFICE/OUTPATIENT VISIT EST,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+,,,,,90746: HEPB VACCINE 3 DOSE ADULT IM,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$120.00,1.00,$120.00,$120.00,$0.00,$0.00,$0.00,$0.00,$120.00,$0.00,,,,
+,,,,,90471: IMMUNIZATION ADMIN,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+150240473,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/17/2020,"E11.22, N18.3, M54.5, Z91.81",Graciela Lopez,1946-07-10,Apple Care Medical Management (APP01),,AMP906825292,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150248049,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/17/2020,"R05, R51, Z20.828",Mary K. OConnor,1945-10-01,St. Jude Affiliated Physicians (STJOE),,XEE902354398,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS:95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150249317,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/17/2020,"R50.9, R05",Adrian Cardosa,2020-01-30,Apple Care Medical Management (APP01),,XEH906210431,,,$340.00,$340.00,$0.00,$0.00,$0.00,$0.00,$340.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150293233,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/18/2020,"R30.0, R31.9",Anna Kara,1953-04-16,Prospect Medical Group (PROSP),,20347261,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99442: PHONE E/M PHYS/QHP 11-20 MIN,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150310744,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/19/2020,"R05, R06.00",Mary K. OConnor,1945-10-01,St. Jude Affiliated Physicians (STJOE),,XEE902354398,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99442: PHONE E/M PHYS/QHP 11-20 MIN,Modifiers: 22,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150314365,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/19/2020,"R06.00, R07.9",Jennifer Spofford,1985-01-28,St. Jude Affiliated Physicians (STJOE),,XEQ906174911,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99442: PHONE E/M PHYS/QHP 11-20 MIN,Modifiers: 22,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150350673,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/20/2020,"R51, Z20.828",Jennifer Rios,1977-04-23,Prospect Medical Group (PROSP),,NCF277W05508,,,$340.00,$340.00,$0.00,$0.00,$0.00,$0.00,$340.00,$0.00,"Adriana Martinez: Claim denied d/t ""member not found"" Sent paper claim along w/ proof of eligibility AM  [07/27/2020]",2020-07-22,2020-07-22,Mailed Paper Claim
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149879659,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/15/2020,N63.32,Victoria (Vicki) Schindele,1945-05-05,St. Jude Affiliated Physicians (STJOE),,639460701,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150018248,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/17/2020,"I10, M10.9, D50.9",Gregory T. Davies,1958-02-19,Oscar Health Insurance (OSCAR),,OSC03108396-01,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+150053626,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/15/2020,U07.1,Jonathon Caramazza,1989-04-07,St. Jude Affiliated Physicians (STJOE),,XEH906026268,,,$340.00,$340.00,$0.00,$0.00,$0.00,$0.00,$340.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150159114,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/16/2020,"R19.7, Z20.828",Caitlin Weese,1995-02-15,United HealthCare of all states (87726),,971013149,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS:95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150194696,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/17/2020,"F31.4, F50.00",Cassidy M. Costello-Brandon,1995-04-27,St. Jude Affiliated Physicians (STJOE),,XEO907077026,,,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: ,Dx Ptrs: 1:2:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+150205531,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/17/2020,Z30.42,Carissa Lopez,1984-03-11,St. Jude Affiliated Physicians (STJOE),,XEH906017188,,,$640.00,$640.00,$0.00,$0.00,$0.00,$0.00,$640.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99211: OFFICE/OUTPATIENT VISIT EST,Modifiers: 25,Dx Ptrs: 1:0:0:0,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+,,,,,96372: THER/PROPH/DIAG INJ SC/IM,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,J1050: Medroxyprogesterone acetate,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$3.50,150.00,$525.00,$525.00,$0.00,$0.00,$0.00,$0.00,$525.00,$0.00,,,,
+150229239,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/17/2020,"E11.65, E11.649, R42",Stephanie G. Gradillas,1964-12-01,Prospect Medical Group (PROSP),,98641707F,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150235458,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/17/2020,U07.1,Evan Kneubuhl,1989-04-14,St. Jude Affiliated Physicians (STJOE),,U6111277802,,,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: CS:95,Dx Ptrs: 1:0:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+150239615,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/17/2020,Z20.828,Dave L. Santos,2000-11-17,St. Jude Affiliated Physicians (STJOE),,XEH903263941,,,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: CS:95,Dx Ptrs: 1:0:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+150240004,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/17/2020,"N18.6, L97.919, H53.131, Z99.2",Linda A. Morales,1956-07-15,Caremore Health Plan (CARMO),,AWP306W02760,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99442: PHONE E/M PHYS/QHP 11-20 MIN,Modifiers: ,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150077016,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/15/2020,"H00.012, F10.11, N64.4",Jennifer Rios,1977-04-23,Prospect Medical Group (PROSP),,NCF277W05508,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-20,2020-07-20,Rejected Payer: None
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150094672,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/16/2020,"K92.2, C54.1, C78.00, Z87.19",Carole Ginoza,1961-03-11,St. Jude Affiliated Physicians (STJOE),877-270-7226,40037544101,,,$190.00,$190.00,$0.00,$0.00,$0.00,$0.00,$190.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,1111F: DSCHRG MED/CURRENT MED MERGE,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+150095214,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/16/2020,N50.812,Tom Johnson,1971-06-28,St. Jude Affiliated Physicians (STJOE),,XEH909111667,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150103437,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/16/2020,B02.9,Christopher Ancona,1980-01-28,Blue Cross of California (47198),,CPR679A55066,,,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+150107381,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/16/2020,R30.0,Kaitlyn Snyder,1992-09-29,Apple Care Medical Management (APP01),,NCF436A68711,,,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,2020-07-21,2020-07-21,Rejected Payer: None
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+150109258,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/15/2020,"R43.0, M79.18",Paul Durniok,1975-01-22,Blue Cross of California (47198),,NCF652A73407,,,$405.00,$405.00,$0.00,$0.00,$0.00,$0.00,$405.00,$0.00,,2020-07-20,2020-07-20,ERA Denied
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:2:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: CS,Dx Ptrs: 1:2:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+150111807,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/15/2020,U07.1,Krista D. Ellis,1980-11-07,St. Jude Affiliated Physicians (STJOE),,XEH901793760,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-20,2020-07-20,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS:95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150138066,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/16/2020,"R10.9, R22.2, R11.0, R14.0",Iren Pusok,1964-08-25,Prospect Medical Group (PROSP),,R12224021,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+150147293,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/16/2020,"R13.10, R10.10, Z80.0",Jenice Montano-Ruiz,1974-05-15,St. Jude Affiliated Physicians (STJOE),,XEH906025198,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150158205,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/16/2020,"Z30.41, Z11.3",Jacqueline Martinez,1992-07-31,Apple Care Medical Management (APP01),,NCF479W04238,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-21,2020-07-21,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150007460,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/15/2020,"I10, F33.1, R76.0, M15.4, M20.009",Maria Licona,1964-07-20,Prospect Medical Group (PROSP),,W206403056,,,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,2020-07-20,2020-07-20,Rejected Payer: None
+,,,,,99443: PHONE E/M PHYS/QHP 21-30 MIN,Modifiers: ,Dx Ptrs: 1:2:3:4,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+150011161,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/15/2020,"Z20.828, Z33.1",Samantha M. Mercado,1991-05-31,KPIC - Kaiser Permanente (KPIC1),,000012627633,,,$265.00,$265.00,$0.00,$0.00,$0.00,$0.00,$265.00,$0.00,,2020-07-20,2020-07-20,Payer Acknowledged
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99212: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+150013774,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/15/2020,N91.2,Akta Gandhi,1988-06-04,Apple Care Medical Management (APP01),,XEQ909945989,,,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,2020-07-20,2020-07-20,Payer Acknowledged
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+150015184,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/15/2020,"E11.65, I10, N52.9",Christopher (Chris) B. Mora,1971-11-09,St. Jude Affiliated Physicians (STJOE),,XEH909769290,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-20,2020-07-20,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150015260,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/15/2020,"M25.562, R76.0, Z30.40",Ysmara (Izzy) Sainz,1994-10-11,Apple Care Medical Management (APP01),,R03578412,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-20,2020-07-20,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150025878,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/15/2020,"R50.9, R05, Z20.828",Steven Urias,1978-01-25,AppleCare Medical Management (APP01),,W224210553,,,$265.00,$265.00,$0.00,$0.00,$0.00,$0.00,$265.00,$0.00,,2020-07-20,2020-07-20,Payer Acknowledged
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:2:3:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,99212: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:2:3:0,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+150026643,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/15/2020,"R50.9, R05, Z20.828",Stacey Mendoza,1966-02-19,Apple Care Medical Management (APP01),,255257901,,,$340.00,$340.00,$0.00,$0.00,$0.00,$0.00,$340.00,$0.00,,2020-07-20,2020-07-20,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150063895,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/15/2020,"R09.81, R43.0",Rebecca Durniok,1973-12-12,St. Jude Affiliated Physicians (STJOE),,NCF652A73407,,,$340.00,$340.00,$0.00,$0.00,$0.00,$0.00,$340.00,$0.00,,2020-07-20,2020-07-28,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:2:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150065302,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/15/2020,Z71.89,Gary W. Starnes,1954-12-27,Medicare of California Southern (01182),,7FP9PP8-KK57,,,$305.00,$305.00,$0.00,$0.00,$0.00,$0.00,$305.00,$0.00,,2020-07-20,2020-07-27,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+150066670,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/15/2020,G51.0,Kevin Yamashiro,1973-07-02,Prospect Medical Group (PROSP),,R12687526,,,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,2020-07-20,2020-07-20,Rejected Payer: None
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+148153577,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/15/2020,"Z01.419, Z12.4, Z11.51, Z87.410",Megan E. Lomeli,1985-12-07,Prospect Medical Group (PROSP),,U3547332001,,,$250.00,$250.00,$0.00,$0.00,$0.00,$0.00,$250.00,$0.00,,2020-07-20,2020-07-20,Payer Acknowledged
+,,,,,99395: PREV VISIT EST AGE 18-39,Modifiers: 25,Dx Ptrs: 1:2:3:4,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+,,,,,96127: BRIEF EMOTIONAL/BEHAV ASSMT,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$50.00,1.00,$50.00,$50.00,$0.00,$0.00,$0.00,$0.00,$50.00,$0.00,,,,
+149976954,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/14/2020,H40.9,Diane Cavenee,1958-08-13,St. Jude Affiliated Physicians (STJOE),,XDM201A51589,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-16,2020-07-16,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149977847,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/14/2020,E11.65,Stephanie G. Gradillas,1964-12-01,Prospect Medical Group (PROSP),,98641707F,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-15,2020-07-15,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149980952,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/14/2020,"Z20.828, J02.9",Karen Cabrera,1989-04-15,COVID19 HRSA Uninsured Testing & Treatment Fund (CVD19),,221003048,,,$365.00,$365.00,$0.00,$0.00,$0.00,$0.00,$365.00,$0.00,,2020-07-15,2020-07-20,Payer Acknowledged
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: CS,Dx Ptrs: 1:2:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149984497,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/14/2020,M25.561,Sarah E. Maust,1974-09-10,St. Jude Affiliated Physicians (STJOE),,XEH904841299,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-15,2020-07-15,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149995017,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/14/2020,"K21.9, R51",Kevin Glenn,1960-05-20,Apple Care Medical Management (APP01),,W218995618,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-15,2020-07-15,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150019368,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/14/2020,"R50.9, R05, Z20.828",Steven Urias,1978-01-25,AppleCare Medical Management (APP01),,W224210553,,,$340.00,$340.00,$0.00,$0.00,$0.00,$0.00,$340.00,$0.00,,2020-07-15,2020-07-15,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: UH:CS,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150023943,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/15/2020,"Z20.828, R42",Sabrina Feltenberger,1967-10-02,St. Jude Affiliated Physicians (STJOE),,XEH906021409,,,$340.00,$340.00,$0.00,$0.00,$0.00,$0.00,$340.00,$0.00,,2020-07-15,2020-07-15,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150235029,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/17/2020,Z20.828,Adriana Castellanos,1976-06-20,Prospect Medical Group (PROSP),,00011742,,,$735.00,$735.00,$0.00,$0.00,$0.00,$0.00,$735.00,$0.00,,,,Internal Review
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+150380729,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/20/2020,"R19.7, R50.9, Z20.828",Soojeen (Megan) Park,1975-02-12,United HealthCare of all states (87726),,946921166,,,$735.00,$735.00,$0.00,$0.00,$0.00,$0.00,$735.00,$0.00,,,,Settled
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149775253,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/14/2020,"R53.83, D72.819",Marsha L. Lombard,1949-06-13,St. Jude Affiliated Physicians (STJOE),,XEE902242624,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-15,2020-07-15,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149881939,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/13/2020,"R35.0, R10.30, Z87.440",Kathy Nguyen,1956-11-21,Apple Care Medical Management (APP01),,R10545899,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-14,2020-07-14,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149887096,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/13/2020,"I10, R00.2",Raciela B. Austin,1971-05-26,Aetna Health Plans (60054),,W245777653,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-15,2020-07-15,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149911847,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/13/2020,F43.20,Sergio Montero,1977-11-17,St. Jude Affiliated Physicians (STJOE),,XEH908841544,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-14,2020-07-14,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149917937,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/13/2020,"R05, R21, Z20.828",Alex Samarin,1958-09-07,Oscar Health Insurance (OSCAR),,OSC0757470001,,,$405.00,$405.00,$0.00,$0.00,$0.00,$0.00,$405.00,$0.00,,2020-07-14,2020-07-14,Payer Acknowledged
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149919424,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/13/2020,J45.909,Beatriz Zavala,1974-05-13,Blue Shield of CA (Blue Card) (94036),,BHP829059315,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-14,2020-07-14,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS:95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149930822,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/14/2020,"R00.2, E11.65, R53.83",Sabrina Feltenberger,1967-10-02,St. Jude Affiliated Physicians (STJOE),,XEH906021409,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-07-15,2020-07-15,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+149931793,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/13/2020,"M79.672, M25.572, I10, F33.1, E11.9",Stephanie D. Quesada,1972-11-16,St. Jude Affiliated Physicians (STJOE),,U7413953802,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-07-14,2020-07-14,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 22,Dx Ptrs: 1:2:3:4,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+149932181,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/13/2020,"Z20.828, R05, R06.00",Mary K. OConnor,1945-10-01,St. Jude Affiliated Physicians (STJOE),,XEE902354398,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-14,2020-07-14,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 22:CS:95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149994581,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/14/2020,"R05, Z20.828",Jose Hurtado,1975-06-14,United HealthCare of all states (87726),,425703601,,,$305.00,$305.00,$0.00,$0.00,$0.00,$0.00,$305.00,$0.00,,2020-07-15,2020-07-15,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS:95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+149709524,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/13/2020,"G56.02, I10, Z95.5, Z95.1",Alvira (Jane) Reinhart,1941-05-23,Medicare of California Southern (01182),,9H32T55TF16,,,$180.00,$121.10,$58.90,$96.88,$0.00,$0.00,$24.22,$0.00,,2020-07-14,2020-07-14,Coordination of Benefits
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$180.00,1.00,$180.00,$121.10,$58.90,$96.88,$0.00,$0.00,$24.22,$0.00,,,,
+149775411,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/10/2020,"Z20.828, R51",Marco (Tony) A. Banuelos,1965-03-30,St. Jude Affiliated Physicians (STJOE),,XEH907075436,,,$340.00,$99.71,$240.29,$0.00,$0.00,$0.00,$99.71,$0.00,,2020-07-12,2020-07-20,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$82.14,$67.86,$0.00,$0.00,$0.00,$82.14,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:2:0:0,,,,$40.00,1.00,$40.00,$8.30,$31.70,$0.00,$0.00,$0.00,$8.30,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$9.27,$140.73,$0.00,$0.00,$0.00,$9.27,$0.00,,,,
+149784742,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/10/2020,R07.9,Robert Becker,1986-07-09,St. Jude Affiliated Physicians (STJOE),,U7537098002,,,$255.00,$255.00,$0.00,$0.00,$0.00,$0.00,$255.00,$0.00,,2020-07-12,2020-07-12,Payer Acknowledged
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+,,,,,1111F: DSCHRG MED/CURRENT MED MERGE,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+149788745,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/10/2020,Z20.828,Teresita Paredes,1950-10-15,St. Jude Affiliated Physicians (STJOE),,XEH906438859,,,$340.00,$99.71,$240.29,$0.00,$0.00,$0.00,$99.71,$0.00,,2020-07-12,2020-07-20,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$82.14,$67.86,$0.00,$0.00,$0.00,$82.14,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$8.30,$31.70,$0.00,$0.00,$0.00,$8.30,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$9.27,$140.73,$0.00,$0.00,$0.00,$9.27,$0.00,,,,
+149789180,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/10/2020,Z20.828,Gaudencio Paredes,1958-02-12,St. Jude Affiliated Physicians (STJOE),,XEH906438859,,,$340.00,$99.71,$240.29,$0.00,$0.00,$0.00,$99.71,$0.00,,2020-07-12,2020-07-20,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$82.14,$67.86,$0.00,$0.00,$0.00,$82.14,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$8.30,$31.70,$0.00,$0.00,$0.00,$8.30,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$9.27,$140.73,$0.00,$0.00,$0.00,$9.27,$0.00,,,,
+149794448,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/10/2020,Z20.828,Murrie Alcorn,1954-01-10,Medicare of California Southern (01182),,5QN2-E70-DG84,,,$340.00,$340.00,$0.00,$0.00,$0.00,$0.00,$340.00,$0.00,,2020-07-12,2020-07-12,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149798773,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/10/2020,N39.0,Marsha L. Sherwood,1950-03-21,Medicare of California Southern (01182),,6D32HC1WC93,,,$150.00,$82.14,$67.86,$57.14,$0.00,$0.00,$25.00,$0.00,,2020-07-12,2020-07-22,Rejected Gateway (Secondary)
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$82.14,$67.86,$57.14,$0.00,$0.00,$25.00,$0.00,,,,
+149800863,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/10/2020,"R10.2, N39.3, I10",Roselia Romero,1978-02-01,St. Jude Affiliated Physicians (STJOE),,NCF193A73663,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,Jaimie Tanner: gave to AM to appeal FFS after hours  [07/27/2020],2020-07-12,2020-07-12,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 22:95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149864537,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/13/2020,"I10, R35.0, D64.9, R94.6, F17.200, Z86.79",Monte Bradford III,1958-11-13,St. Jude Affiliated Physicians (STJOE),,XEH909528487,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-07-14,2020-07-14,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+149926512,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/13/2020,Z20.828,Emily Weber,1988-03-29,COVID19 HRSA Uninsured Testing & Treatment Fund (CVD19),,213002633,,,$405.00,$405.00,$0.00,$0.00,$0.00,$0.00,$405.00,$0.00,Marina Mondragon: submitted member ID request Req#: BL000000336946 [07/13/2020],,,Missing Information: Could not process Appointment 149926512. Reason='Missing Insurance ID #'
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149438706,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/09/2020,Z30.2,Thomas Donavan,1982-09-10,St. Jude Affiliated Physicians (STJOE),,XEH905699837,,,$215.00,$120.94,$94.06,$0.00,$0.00,$0.00,$120.94,$0.00,,2020-07-12,2020-07-12,ERA Denied
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$215.00,1.00,$215.00,$120.94,$94.06,$0.00,$0.00,$0.00,$120.94,$0.00,,,,
+149542010,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/08/2020,Z20.828,Rosaura Ramirez-Mazariegos,1952-01-15,St. Jude Affiliated Physicians (STJOE),,8644477-01,,,$242.00,$242.00,$0.00,$0.00,$0.00,$0.00,$242.00,$0.00,,2020-07-09,2020-07-23,Payer Acknowledged
+,,,,,99212: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$52.00,1.00,$52.00,$52.00,$0.00,$0.00,$0.00,$0.00,$52.00,$0.00,,,,
+149624052,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/08/2020,Z20.828,Barbara L. Pratte,1959-06-16,St. Jude Affiliated Physicians (STJOE),,9665854-01,,,$242.00,$242.00,$0.00,$0.00,$0.00,$0.00,$242.00,$0.00,,2020-07-09,2020-07-22,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$52.00,1.00,$52.00,$52.00,$0.00,$0.00,$0.00,$0.00,$52.00,$0.00,,,,
+149629786,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/08/2020,"I10, R30.0",Jannet Flores,1975-01-05,St. Jude Affiliated Physicians (STJOE),,JQK283A72586,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-09,2020-07-09,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 22,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149633273,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/08/2020,"Z20.828, R53.83, R07.89",Jennifer Spofford,1985-01-28,St. Jude Affiliated Physicians (STJOE),,XEQ906174911,,,$150.00,$82.14,$67.86,$0.00,$0.00,$0.00,$82.14,$0.00,,2020-07-10,2020-07-16,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS:95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$82.14,$67.86,$0.00,$0.00,$0.00,$82.14,$0.00,,,,
+149681391,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/09/2020,"N97.9, R11.0, Z98.890",Desiree C. Naranjo,1988-12-29,Prospect Medical Group (PROSP),,U6441523901,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-12,2020-07-12,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149723842,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/10/2020,"L98.7, E87.6",Lois S. Burch,1953-10-10,Prospect Medical Group (PROSP),,H62253643,,,$105.00,$105.00,$0.00,$0.00,$0.00,$0.00,$105.00,$0.00,,2020-07-12,2020-07-12,Payer Acknowledged
+,,,,,99211: OFFICE/OUTPATIENT VISIT EST,Modifiers: 25,Dx Ptrs: 1:0:0:0,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+,,,,,36415: ROUTINE VENIPUNCTURE,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$30.00,1.00,$30.00,$30.00,$0.00,$0.00,$0.00,$0.00,$30.00,$0.00,,,,
+149751979,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/10/2020,Z20.828,Martha Venegas,1983-08-24,Apple Care Medical Management (APP01),,XDM118A69324,,,$340.00,$340.00,$0.00,$0.00,$0.00,$0.00,$340.00,$0.00,Adriana Martinez: Sent claim to Applecare AM  [07/23/2020],2020-07-12,2020-07-23,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149752287,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/10/2020,Z20.828,Rajaa Shafique,1995-05-25,St. Jude Affiliated Physicians (STJOE),,XDU830A53403,,,$340.00,$340.00,$0.00,$0.00,$0.00,$0.00,$340.00,$0.00,,2020-07-12,2020-07-21,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149822942,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/11/2020,H61.22,Jaimie Tanner,1986-11-11,Apple Care Medical Management (APP01),,889968-01,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-12,2020-07-12,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: UH,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+148713644,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/08/2020,"Z01.818, M25.562, R94.31, R53.82",Marsha L. Lombard,1949-06-13,St. Jude Affiliated Physicians (STJOE),,XEE902242624,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-07-09,2020-07-09,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+148955234,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/08/2020,"I10, E78.5, Z80.3",Marsha L. Sherwood,1950-03-21,Medicare of California Southern (01182),,6D32HC1WC93,,,$150.00,$82.14,$67.86,$57.14,$0.00,$0.00,$25.00,$0.00,Jaimie Tanner: gave to AM to fu  [07/23/2020],2020-07-09,2020-07-16,Payer Acknowledged (Secondary)
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$82.14,$67.86,$57.14,$0.00,$0.00,$25.00,$0.00,,,,
+149426000,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/06/2020,"E11.65, R30.0, R32, I10",Rafaela T. Arellano,1947-07-25,St. Jude Affiliated Physicians (STJOE),,JQQ191W02747,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-07-09,2020-07-09,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+149505369,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/07/2020,Z20.828,Cesar Mazariegos,1951-01-08,St. Jude Affiliated Physicians (STJOE),,855329701,,,$242.00,$242.00,$0.00,$0.00,$0.00,$0.00,$242.00,$0.00,,2020-07-08,2020-07-22,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$52.00,1.00,$52.00,$52.00,$0.00,$0.00,$0.00,$0.00,$52.00,$0.00,,,,
+149510743,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/08/2020,Z20.828,Taryn Mendoza,1988-05-07,St. Jude Affiliated Physicians (STJOE),,XEH909840107,,,$167.00,$81.89,$85.11,$0.00,$0.00,$0.00,$81.89,$0.00,,2020-07-09,2020-07-15,Payer Acknowledged
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$8.30,$31.70,$0.00,$0.00,$0.00,$8.30,$0.00,,,,
+,,,,,99211: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$75.00,1.00,$75.00,$28.15,$46.85,$0.00,$0.00,$0.00,$28.15,$0.00,,,,
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$52.00,1.00,$52.00,$45.44,$6.56,$0.00,$0.00,$0.00,$45.44,$0.00,,,,
+149512396,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/07/2020,R74.8,Christopher Lasley,1967-05-17,Apple Care Medical Management (APP01),,2479227-01,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-08,2020-07-08,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 90,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149530591,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/08/2020,"I10, K50.90, G51.0",Kriston (Kris) Perry,1972-09-10,St. Jude Affiliated Physicians (STJOE),,XEH909122853,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-07-09,2020-07-09,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+149539644,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/08/2020,"M54.9, I10, S22.080S",Cecilia Wong,1943-12-27,Caremore Health Plan (CARMO),,ARK680M97311,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-09,2020-07-09,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149541820,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/08/2020,Z20.828,Cesar Mazariegos,1951-01-08,St. Jude Affiliated Physicians (STJOE),,855329701,,,$167.00,$167.00,$0.00,$0.00,$0.00,$0.00,$167.00,$0.00,,2020-07-09,2020-07-09,Payer Acknowledged
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$52.00,1.00,$52.00,$52.00,$0.00,$0.00,$0.00,$0.00,$52.00,$0.00,,,,
+,,,,,99212: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+149569855,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/08/2020,J01.90,Leslie K. Miller,1952-06-30,Medicare of California Southern (01182),,9NV0-HQ6-VM14,,,$250.00,$110.38,$139.62,$88.30,$0.00,$0.00,$22.08,$0.00,,2020-07-09,2020-07-09,Coordination of Benefits
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$83.73,$66.27,$66.98,$0.00,$0.00,$16.75,$0.00,,,,
+,,,,,Q3014: Telehealth facility fee,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$100.00,1.00,$100.00,$26.65,$73.35,$21.32,$0.00,$0.00,$5.33,$0.00,,,,
+141232491,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,03/25/2020,Z23,Sage H. Lee,2018-08-15,Christian Care Ministry (Medi-Share) (59355),,09721L20840,,,$360.00,$360.00,$0.00,$0.00,$0.00,$0.00,$360.00,$0.00,,2020-07-08,2020-07-08,Payer Acknowledged
+,,,,,99212: OFFICE/OUTPATIENT VISIT EST,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+,,,,,90700: DTAP VACCINE < 7 YRS IM,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+,,,,,90686: IIV4 VACC NO PRSV 0.5 ML IM,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,90460: IM ADMIN 1ST/ONLY COMPONENT,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$50.00,2.00,$100.00,$100.00,$0.00,$0.00,$0.00,$0.00,$100.00,$0.00,,,,
+,,,,,90461: IM ADMIN EACH ADDL COMPONENT,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$35.00,2.00,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,,,,
+148992270,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/07/2020,"I10, R92.8, Z53.20",Guadalupe Ruiz,1952-06-03,Apple Care Medical Management (APP01),,40026376501,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-08,2020-07-08,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149262595,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/03/2020,R10.10,Branden Valencia,1992-02-13,Prospect Medical Group (PROSP),,U5769536601,,,$405.00,$405.00,$0.00,$0.00,$0.00,$0.00,$405.00,$0.00,,2020-07-08,2020-07-08,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99051: MED SERV EVE/WKEND/HOLIDAY,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+,,,,,Q3014: Telehealth facility fee,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$100.00,1.00,$100.00,$100.00,$0.00,$0.00,$0.00,$0.00,$100.00,$0.00,,,,
+149414933,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/06/2020,U07.1,Jocelyn Hurtado,1998-11-17,St. Jude Affiliated Physicians (STJOE),,425703603,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-07,2020-07-23,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS:95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149416872,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/06/2020,Z20.828,James McDougall,1996-08-08,Health Net (68069),,R05637907,,,$242.00,$242.00,$0.00,$0.00,$0.00,$0.00,$242.00,$0.00,Marina Mondragon: resent to healthnet w/covid claim [07/24/2020],2020-07-07,2020-07-24,Rejected Payer: None
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$52.00,1.00,$52.00,$52.00,$0.00,$0.00,$0.00,$0.00,$52.00,$0.00,,,,
+149426761,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/06/2020,R21,Lionel Gong,1995-11-02,Apple Care Medical Management (APP01),,9720282-01,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-07,2020-07-24,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149427451,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/07/2020,"F03.90, E11.65, J45.50, I10, D48.5, Z79.52",Maria Acosta,1945-08-07,Caremore Health Plan (CARMO),,AWP530M97314,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-07-08,2020-07-08,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+149498434,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/07/2020,"I10, R73.03",Dawnyel D. Chevalier,1964-03-24,Aetna Health Plans (60054),,W199197793,,,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,2020-07-07,2020-07-07,ERA Received
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+149500157,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/07/2020,"R42, I95.9, N17.9",Cecilia Wong,1943-12-27,Caremore Health Plan (CARMO),,ARK680M97311,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-08,2020-07-08,Payer Acknowledged
+,,,,,99442: PHONE E/M PHYS/QHP 11-20 MIN,Modifiers: ,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149539857,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/07/2020,"N92.0, R10.2",Jingnan Wang,1981-08-27,Apple Care Medical Management (APP01),,986401101,,,$305.00,$305.00,$0.00,$0.00,$0.00,$0.00,$305.00,$0.00,,2020-07-08,2020-07-08,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: UH,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+149249136,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/02/2020,R42,Tsion Dagne,1943-09-26,Prospect Medical Group (PROSP),,93419948E,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-07,2020-07-07,Payer Acknowledged
+,,,,,99442: PHONE E/M PHYS/QHP 11-20 MIN,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149265977,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/03/2020,"Z86.19, I10",Sylvia Atenogenes-Saiz,1976-01-24,Prospect Medical Group (PROSP),,XDM601A56106,,,$305.00,$305.00,$0.00,$0.00,$0.00,$0.00,$305.00,$0.00,,2020-07-07,2020-07-14,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS:95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99051: MED SERV EVE/WKEND/HOLIDAY,Modifiers: CS:95,Dx Ptrs: 1:0:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+149269539,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/03/2020,"N91.2, R10.2",Ashley Heard,1984-09-19,St. Jude Affiliated Physicians (STJOE),,NCF859A77786,,,$150.00,$150.00,$0.00,$0.00,$0.00,$15.00,$150.00,-$15.00,,2020-07-07,2020-07-07,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$15.00,$150.00,-$15.00,,,,
+149325753,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/05/2020,E11.65,Kaitlyn R. Sanchez,2004-09-22,Genesis Healthcare (EMG) (PROSP),,R10898085,,,$305.00,$305.00,$0.00,$0.00,$0.00,$0.00,$305.00,$0.00,,2020-07-07,2020-07-07,Payer Acknowledged
+,,,,,99442: PHONE E/M PHYS/QHP 11-20 MIN,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99051: MED SERV EVE/WKEND/HOLIDAY,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+149325813,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/05/2020,"R10.31, D25.1",Elizabeth (Liz) Sanchez,1984-03-24,St. Jude Affiliated Physicians (STJOE),,XEH909525211,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-07,2020-07-07,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 22,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149331096,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/05/2020,"Z20.828, Z33.1, D68.61, Z79.01, I10, E66.9",Jennifer Reilly,1979-10-13,St. Jude Affiliated Physicians (STJOE),,XEO909149443,,,$242.00,$135.88,$106.12,$0.00,$0.00,$0.00,$135.88,$0.00,,2020-07-07,2020-07-14,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 22:CS,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$82.14,$67.86,$0.00,$0.00,$0.00,$82.14,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$8.30,$31.70,$0.00,$0.00,$0.00,$8.30,$0.00,,,,
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$52.00,1.00,$52.00,$45.44,$6.56,$0.00,$0.00,$0.00,$45.44,$0.00,,,,
+149331465,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/05/2020,Z20.828,Ryan Reilly,1979-11-06,St. Jude Affiliated Physicians (STJOE),,XEO909149443,,,$267.00,$267.00,$0.00,$0.00,$0.00,$0.00,$267.00,$0.00,Jaimie Tanner: gave to AM to appeal- FFS after hours  [07/27/2020],2020-07-07,2020-07-07,Payer Acknowledged
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: 22:CS,Dx Ptrs: 1:0:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$52.00,1.00,$52.00,$52.00,$0.00,$0.00,$0.00,$0.00,$52.00,$0.00,,,,
+149331614,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/05/2020,L20.84,Belle Pritchard,2009-12-08,Prospect Medical Group (PROSP),,986057803,,,$305.00,$305.00,$0.00,$0.00,$0.00,$0.00,$305.00,$0.00,,2020-07-07,2020-07-23,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99051: MED SERV EVE/WKEND/HOLIDAY,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+149332893,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/05/2020,H60.92,Ian Blandford,2012-09-14,Apple Care Medical Management (APP01),,931145204,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-07,2020-07-07,Payer Acknowledged
+,,,,,99442: PHONE E/M PHYS/QHP 11-20 MIN,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149408847,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/06/2020,"E11.65, R74.0, E66.01",Kaitlyn R. Sanchez,2004-09-22,Genesis Healthcare (EMG) (PROSP),,R10898085,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-07,2020-07-07,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+148518725,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/01/2020,"R19.07, D70.9",Sonja L. Hardman,1945-01-27,Medicare of California Southern (01182),,4DN5-W17-HM40,,,$150.00,$83.73,$66.27,$0.00,$0.00,$0.00,$83.73,$0.00,,2020-07-06,2020-07-06,Coordination of Benefits
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: ,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$83.73,$66.27,$0.00,$0.00,$0.00,$83.73,$0.00,,,,
+148843133,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/02/2020,"I10, M43.26, N18.3, M54.5",Mary M. Oneil,1947-03-03,Medicare of California Southern (01182),,5W68MJ2AT68,,,$250.00,$110.38,$139.62,$88.30,$0.00,$0.00,$22.08,$0.00,,2020-07-07,2020-07-07,Coordination of Benefits
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$83.73,$66.27,$66.98,$0.00,$0.00,$16.75,$0.00,,,,
+,,,,,Q3014: Telehealth facility fee,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$100.00,1.00,$100.00,$26.65,$73.35,$21.32,$0.00,$0.00,$5.33,$0.00,,,,
+149046266,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/30/2020,"Z20.828, J02.9",Donna Medina,1987-08-15,Prospect Medical Group (PROSP),,W254450396,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-06,2020-07-06,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS:95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149101064,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/01/2020,Z20.828,Carlos J. Rivera,1951-08-15,St. Jude Affiliated Physicians (STJOE),,JQQ897M98958,,,$350.00,$135.06,$214.94,$0.00,$0.00,$0.00,$135.06,$0.00,,2020-07-02,2020-07-16,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS:25,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$83.73,$66.27,$0.00,$0.00,$0.00,$83.73,$0.00,,,,
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$200.00,1.00,$200.00,$51.33,$148.67,$0.00,$0.00,$0.00,$51.33,$0.00,,,,
+149126212,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/02/2020,"I10, E78.5, E11.40, Z86.010",Cathy Santana,1956-01-07,Apple Care Medical Management (APP01),,XDM154M79719,,,$250.00,$250.00,$0.00,$0.00,$0.00,$0.00,$250.00,$0.00,,2020-07-07,2020-07-07,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,Q3014: Telehealth facility fee,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$100.00,1.00,$100.00,$100.00,$0.00,$0.00,$0.00,$0.00,$100.00,$0.00,,,,
+149140404,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/02/2020,"R21, R53.83",Nancy Frazer,1974-08-26,Prospect Medical Group (PROSP),,XEE902324041,,,$250.00,$250.00,$0.00,$0.00,$0.00,$0.00,$250.00,$0.00,,2020-07-07,2020-07-07,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,Q3014: Telehealth facility fee,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$100.00,1.00,$100.00,$100.00,$0.00,$0.00,$0.00,$0.00,$100.00,$0.00,,,,
+149183053,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/02/2020,"Z20.828, J44.9",Johanna (JO) Lundgren,1950-10-31,St. Jude Affiliated Physicians (STJOE),,XEE980254981,,,$52.00,$52.00,$0.00,$0.00,$0.00,$0.00,$52.00,$0.00,,2020-07-07,2020-07-07,Payer Acknowledged
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: CS,Dx Ptrs: 1:2:0:0,,,,$52.00,1.00,$52.00,$52.00,$0.00,$0.00,$0.00,$0.00,$52.00,$0.00,,,,
+149241483,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/02/2020,J18.9,Froylan Hernandez,1942-08-25,St. Jude Affiliated Physicians (STJOE),,C4009640601,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-07-07,2020-07-07,Payer Acknowledged
+,,,,,99442: PHONE E/M PHYS/QHP 11-20 MIN,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149251064,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/02/2020,Z11.59,Terry L. Manthe,1959-03-28,Oscar Health Insurance (OSCAR),,OSCO3028446-01,,,$242.00,$242.00,$0.00,$0.00,$0.00,$0.00,$242.00,$0.00,,2020-07-07,2020-07-07,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$52.00,1.00,$52.00,$52.00,$0.00,$0.00,$0.00,$0.00,$52.00,$0.00,,,,
+149449657,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/06/2020,"R05, R06.00",Robert Urias,1975-11-16,Blue Shield of California (94036),,XEA901478207,,,$575.00,$575.00,$0.00,$0.00,$0.00,$0.00,$575.00,$0.00,,,,Settled
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+148190197,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/23/2020,"M25.551, Z63.4",Patricia Gatica,1962-03-12,Apple Care Medical Management (APP01),,R05710924,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-06-24,2020-06-24,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+148284547,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/19/2020,L98.9,Maria De Socorro (Madelso Lopez) Frausto De Lopez,1947-06-25,Caremore Health Plan (CARMO),,ARK027M97292,,,$100.00,$100.00,$0.00,$0.00,$0.00,$0.00,$100.00,$0.00,,2020-06-24,2020-06-24,Payer Acknowledged
+,,,,,99442: PHONE E/M PHYS/QHP 11-20 MIN,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$100.00,1.00,$100.00,$100.00,$0.00,$0.00,$0.00,$0.00,$100.00,$0.00,,,,
+148322622,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/22/2020,"R74.0, E66.01, N92.1, Z20.828, D50.9",Kaitlyn R. Sanchez,2004-09-22,Genesis Healthcare (EMG) (PROSP),,R10898085,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-06-23,2020-06-23,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+148400857,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/22/2020,S31.809A,Maria De Socorro (Madelso Lopez) Frausto De Lopez,1947-06-25,Caremore Health Plan (CARMO),,ARK027M97292,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-06-24,2020-06-24,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+148465570,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/22/2020,"R10.13, K86.1, K59.00",Anna Garzya,1969-07-15,Prospect Medical Group (PROSP),,94963796A,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-06-23,2020-06-23,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+148502891,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/23/2020,"R03.0, F41.9, E78.5, R00.0",Evangeline (Eve) Ortega,1975-11-09,Blue Shield of California (94036),,XELT50496555,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-06-24,2020-06-24,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+148593270,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/23/2020,"E11.40, I10, E66.01, Z98.890, Z98.84",Cecilia Quinonez,1972-11-25,Genesis Healthcare (EMG) (PROSP),,NCF271M88294,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-06-24,2020-06-24,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: ,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+149100867,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/01/2020,"Z20.828, R06.00",Lyudmila (Mila) Pakhomova,1945-04-17,St. Jude Affiliated Physicians (STJOE),,R06781168,,,$52.00,$52.00,$0.00,$0.00,$0.00,$0.00,$52.00,$0.00,,2020-07-02,2020-07-02,Payer Acknowledged
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$52.00,1.00,$52.00,$52.00,$0.00,$0.00,$0.00,$0.00,$52.00,$0.00,,,,
+149100949,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/01/2020,Z20.828,Donna Medina,1987-08-15,Prospect Medical Group (PROSP),,W254450396,,,$390.00,$390.00,$0.00,$0.00,$0.00,$0.00,$390.00,$0.00,,2020-07-02,2020-07-22,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+149264580,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/02/2020,,Johanna (JO) Lundgren,1950-10-31,St. Jude Affiliated Physicians (STJOE),,XEE980254981,,,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,Settled
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+148092760,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/16/2020,R07.89,Rene Sanchez,1985-03-08,Apple Care Medical Management (APP01),,9331887-01,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-06-21,2020-06-21,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+148111586,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/16/2020,"E11.65, E11.40, H53.8",Stephanie G. Gradillas,1964-12-01,Prospect Medical Group (PROSP),,98641707F,,,$190.00,$190.00,$0.00,$0.00,$0.00,$0.00,$190.00,$0.00,,2020-06-22,2020-06-22,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,1111F: DSCHRG MED/CURRENT MED MERGE,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+148194039,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/18/2020,"U07.1, E66.9",Damien Nakamura,1983-11-17,Prospect Medical Group (PROSP),,W222917999,,,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,2020-06-22,2020-06-22,Payer Acknowledged
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: CS:95,Dx Ptrs: 1:2:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+148243230,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/18/2020,R21,Kimthu Nguyen,1950-07-12,Prospect Medical Group (PROSP),877-270-7226,40038808101,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-06-22,2020-06-22,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+148246491,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/17/2020,H60.91,Aiden Avila,2007-06-04,Cigna (62308),,00145523,,,$305.00,$305.00,$0.00,$0.00,$0.00,$0.00,$305.00,$0.00,,2020-06-22,2020-06-22,Rejected Payer: None
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+148285171,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/18/2020,H60.92,Juan C. Sandoval,1965-10-30,Apple Care Medical Management (APP01),,XEH909060634,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-06-22,2020-06-22,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+148305179,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/19/2020,"J44.9, R09.02, F17.218, J96.10, R91.1, F10.20, R64, R63.6, Z68.1, I70.213, I25.10",Antalne (Maria) Barati,1941-06-23,Prospect Medical Group (PROSP),,96048443F,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-06-22,2020-06-22,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+148365746,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/19/2020,"D25.9, J45.40, J01.90",Ayisha Tahir,1980-10-30,Prospect Medical Group (PROSP),,R04441237,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-06-22,2020-06-22,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+148372734,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/22/2020,"R19.07, I10",Sonja L. Hardman,1945-01-27,Medicare of California Southern (01182),,4DN5-W17-HM40,,,$150.00,$83.73,$66.27,$0.00,$0.00,$0.00,$83.73,$0.00,,2020-06-23,2020-06-23,Coordination of Benefits
+,,,,,99442: PHONE E/M PHYS/QHP 11-20 MIN,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$83.73,$66.27,$0.00,$0.00,$0.00,$83.73,$0.00,,,,
+148393615,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/20/2020,"B34.9, R43.0, R51",Stacey Hunt,1989-12-07,Prospect Medical Group (PROSP),,879980701,,,$505.00,$505.00,$0.00,$0.00,$0.00,$0.00,$505.00,$0.00,,2020-06-22,2020-07-22,Rejected Payer: None
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS:95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: CS:95,Dx Ptrs: 1:2:3:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: CS:95,Dx Ptrs: 1:0:0:0,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+147322228,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/04/2020,"K21.9, J30.9, R09.89",Jacqueline Martinez,1992-07-31,Apple Care Medical Management (APP01),,NCF479W04238,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-06-13,2020-06-13,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+147325210,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/04/2020,"Z20.828, G47.30, I10, E66.01",Fernando Serrano,1987-05-21,Apple Care Medical Management (APP01),,948096801,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-06-15,2020-06-15,Rejected Payer: None
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS:95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+147337512,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/04/2020,"R92.8, M54.32",Grace J. Cha,1969-05-21,Prospect Medical Group (PROSP),,XDM812M93300,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-06-13,2020-06-13,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+147437285,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/08/2020,"I48.20, R60.9, F17.219, N18.3",Marlene M. Patchett,1938-05-23,Blue Cross of California (47198),,JQI245A71500,,,$200.00,$200.00,$0.00,$1.08,$0.00,$0.00,$198.92,$0.00,,2020-06-11,2020-07-24,Payer Acknowledged
+,,,,,99443: PHONE E/M PHYS/QHP 21-30 MIN,Modifiers: ,Dx Ptrs: 1:2:3:4,,,,$200.00,1.00,$200.00,$200.00,$0.00,$1.08,$0.00,$0.00,$198.92,$0.00,,,,
+147805531,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/12/2020,"D48.5, R74.8, R03.0, R53.83, Z85.828",Christopher Lasley,1967-05-17,Apple Care Medical Management (APP01),,2479227-01,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-06-13,2020-06-19,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+147806706,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/12/2020,R21,Lionel Gong,1995-11-02,Apple Care Medical Management (APP01),,9720282-01,,,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,2020-06-13,2020-06-13,Payer Acknowledged
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+147828994,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/11/2020,"R10.13, K86.1, G43.709, K59.00",Anna Garzya,1969-07-15,Prospect Medical Group (PROSP),,94963796A,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-06-12,2020-06-12,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+147831034,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/12/2020,"E11.65, Z98.890, C50.912",Maria E. Meda,1954-09-03,St. Jude Affiliated Physicians (STJOE),877-270-7226,40036146901,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-06-13,2020-06-13,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+147882904,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/12/2020,"U07.1, R05, E11.40, J45.30",Matthew Frausto,1961-07-31,Prospect Medical Group (PROSP),,W207983898,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-06-13,2020-06-13,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS:95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+147909784,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/12/2020,R07.81,Gloria Carias,1970-01-29,Prospect Medical Group (PROSP),,93915194C,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-06-13,2020-06-13,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+147192999,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/03/2020,"I10, E27.1, I25.10, R06.09, R07.9",Judith Rodriguez,1940-10-28,Prospect Medical Group (PROSP),,40035639101,,,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,2020-06-03,2020-06-03,Payer Acknowledged
+,,,,,99443: PHONE E/M PHYS/QHP 21-30 MIN,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+147198479,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/03/2020,"E78.5, I10, E11.22, J44.9, I48.91, N18.4",Rose Giangiobbe,1935-08-03,St. Jude Affiliated Physicians (STJOE),,767784801,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-06-03,2020-06-03,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+147409430,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/05/2020,"R42, S09.90XA, S22.080S, Z91.81",Cecilia Wong,1943-12-27,Caremore Health Plan (CARMO),,ARK680M97311,,,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,2020-06-08,2020-06-08,Payer Acknowledged
+,,,,,99443: PHONE E/M PHYS/QHP 21-30 MIN,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+147438438,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/08/2020,"M79.643, R94.6, E03.9",Bernardine T. Miller,1932-12-24,St. Jude Affiliated Physicians (STJOE),877-270-7226,400364392-01,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-06-10,2020-06-10,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+147472655,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/07/2020,"R05, J45.30, R53.83, Z20.828, E11.40, M79.10",Matthew Frausto,1961-07-31,Prospect Medical Group (PROSP),,W207983898,,,$335.00,$335.00,$0.00,$0.00,$0.00,$0.00,$335.00,$0.00,,2020-06-08,2020-06-08,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS:95,Dx Ptrs: 1:2:3:4,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: CS:95,Dx Ptrs: 1:2:3:4,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+147549349,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/08/2020,"Z80.0, I10, I12.9, D64.9",Alice Avila,1935-11-07,St. Jude Affiliated Physicians (STJOE),,31011977801,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-06-10,2020-06-10,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+147558101,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/09/2020,"E11.649, Z98.84, Z87.11",Laurie Wilson,1964-09-20,Prospect Medical Group (PROSP),,94325204C,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-06-10,2020-06-10,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+147575682,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/09/2020,"R06.00, Z98.84, D50.9",Leslie K. Miller,1952-06-30,Medicare of California Southern (01182),,9NV0-HQ6-VM14,,,$180.00,$121.10,$58.90,$96.88,$0.00,$0.00,$24.22,$0.00,,2020-06-10,2020-06-10,Coordination of Benefits
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$180.00,1.00,$180.00,$121.10,$58.90,$96.88,$0.00,$0.00,$24.22,$0.00,,,,
+147617338,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/10/2020,"M79.601, M54.6, Z95.2, Z79.02, Z99.3",Samira Shakhshir,1940-01-10,Medicare of California Southern (01182),,1RX1NR7CV03,,,$180.00,$121.10,$58.90,$96.88,$0.00,$0.00,$24.22,$0.00,,2020-06-11,2020-06-11,Coordination of Benefits
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$180.00,1.00,$180.00,$121.10,$58.90,$96.88,$0.00,$0.00,$24.22,$0.00,,,,
+147715001,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/10/2020,"E11.9, I10",Steven Beard,1972-06-27,Blue Cross of California (47198),,CPR670A52278,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,"Adriana Martinez: Claim denied d/t ""Information requested from the patient/insured/responsible party was not provided or was insufficient/incomplete."" Called pt, LMTC AM  [06/25/2020]",2020-06-11,2020-06-11,ERA Received
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+141509175,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/28/2020,"Z00.01, M05.9, D46.4, I48.0, I50.9, R23.3, I10, R73.03, Z95.3",Froylan Hernandez,1942-08-25,St. Jude Affiliated Physicians (STJOE),,C4009640601,,,$250.00,$250.00,$0.00,$0.00,$0.00,$0.00,$250.00,$0.00,Jaimie Tanner: KP to finish form  [05/10/2020],2020-06-02,2020-06-02,Rejected Payer: None
+,,,,,G0439: Ppps subseq visit,Modifiers: 25:95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,G0444: Depression screen annual,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$50.00,1.00,$50.00,$50.00,$0.00,$0.00,$0.00,$0.00,$50.00,$0.00,,,,
+,,,,,G0444: Depression screen annual,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$50.00,1.00,$50.00,$50.00,$0.00,$0.00,$0.00,$0.00,$50.00,$0.00,,,,
+146331567,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/21/2020,"Z01.818, E66.01, E11.40, F33.0, M05.9, I10, R06.83",Cecilia Quinonez,1972-11-25,Genesis Healthcare (EMG) (PROSP),,NCF271M88294,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-05-26,2020-05-26,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+146336455,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/22/2020,"E11.65, I10",Joseph Small,1970-07-20,Blue Cross of California (47198),,DDP307M85364,,,$300.00,$400.00,-$100.00,$2.16,$0.00,$0.00,$397.84,$0.00,,2020-05-26,2020-06-23,ERA Denied
+,,,,,99443: PHONE E/M PHYS/QHP 21-30 MIN,Modifiers: ,Dx Ptrs: 1:2:0:0,,,,$200.00,1.00,$200.00,$200.00,$0.00,$2.16,$0.00,$0.00,$197.84,$0.00,,,,
+,,,,,Q3014: Telehealth facility fee,Modifiers: ,Dx Ptrs: 1:2:0:0,,,,$100.00,1.00,$100.00,$200.00,-$100.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+146418866,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/21/2020,"R73.03, I10, D63.1, N18.4, E66.01",Christina (Christine) Zuniga,1944-07-24,Prospect Medical Group (PROSP),,99565754C,,,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,2020-05-26,2020-05-26,Payer Acknowledged
+,,,,,99443: PHONE E/M PHYS/QHP 21-30 MIN,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+146455393,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/26/2020,"Z00.01, L65.8, Z86.2",Ana R. Escalante,1953-02-03,St. Jude Affiliated Physicians (STJOE),,40037760801,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-05-30,2020-05-30,Payer Acknowledged
+,,,,,G0439: Ppps subseq visit,Modifiers: 25:95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+146522678,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/29/2020,"E11.9, I10",Scholastica Mkpayah,1954-12-18,St. Jude Affiliated Physicians (STJOE),,650016101,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-06-03,2020-06-03,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+146622816,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/28/2020,"R22.2, N76.6",Donna Medina,1987-08-15,Prospect Medical Group (PROSP),,W254450396,,,$250.00,$250.00,$0.00,$0.00,$0.00,$0.00,$250.00,$0.00,,2020-06-03,2020-06-03,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,Q3014: Telehealth facility fee,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$100.00,1.00,$100.00,$100.00,$0.00,$0.00,$0.00,$0.00,$100.00,$0.00,,,,
+146845692,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/28/2020,"M25.562, E11.65",Erlinda Ureta,1923-10-12,Genesis Healthcare (EMG) (PROSP),,124167501,,,$250.00,$250.00,$0.00,$0.00,$0.00,$0.00,$250.00,$0.00,,2020-06-03,2020-06-03,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,Q3014: Telehealth facility fee,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$100.00,1.00,$100.00,$100.00,$0.00,$0.00,$0.00,$0.00,$100.00,$0.00,,,,
+147105951,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/03/2020,"E11.43, F11.20, F31.9, G89.4, R10.9, D64.9",Cecelia E. Lafrance,1952-11-07,St. Jude Affiliated Physicians (STJOE),,JQS158M91998,,,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,2020-06-03,2020-06-03,Payer Acknowledged
+,,,,,99443: PHONE E/M PHYS/QHP 21-30 MIN,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+147165187,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,06/02/2020,"Z01.818, C50.912, E11.65, I10, I48.0",Maria E. Meda,1954-09-03,Scan Health Plan (72261),877-270-7226,40036146901,,,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,2020-06-03,2020-06-03,Payer Acknowledged
+,,,,,99443: PHONE E/M PHYS/QHP 21-30 MIN,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+145570009,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/19/2020,"I10, E11.65",Sabrina Feltenberger,1967-10-02,St. Jude Affiliated Physicians (STJOE),,XEH906021409,,,$150.00,$150.00,$0.00,$0.00,$0.00,$20.00,$150.00,-$20.00,,2020-05-26,2020-05-26,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$20.00,$150.00,-$20.00,,,,
+145896256,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/13/2020,"N18.6, S30.0XXA, Z99.2, Z91.81",Audon F. Zaldivar,1937-08-01,Prospect Medical Group (PROSP),,93973722D,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-05-20,2020-05-20,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+145903302,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/15/2020,"L98.7, R26.89, Z98.84",Deborah A. Evans,1969-01-26,Prospect Medical Group (PROSP),,NCF782M99357,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-05-25,2020-05-25,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+145951337,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/14/2020,"E78.5, N63.20, N64.4, Z85.3",Marisol Manzano,1971-01-20,Prospect Medical Group (PROSP),,888357901,,,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,2020-05-25,2020-05-25,Payer Acknowledged
+,,,,,99443: PHONE E/M PHYS/QHP 21-30 MIN,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+146076895,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/15/2020,"R76.0, R20.2, M20.099, E78.5, Z86.19",Lorna Barnoya,1965-09-14,Prospect Medical Group (PROSP),,NCF841A52491,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-05-25,2020-05-25,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+146094259,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/18/2020,"E11.65, I10, F17.209",Steven Beard,1972-06-27,Blue Cross of California (47198),,CPR670A52278,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,"Adriana Martinez: Called pt, LMTC. Also sent message via Onpt on 6/25 to contact office - no response from pt. AM  [07/13/2020]",2020-05-25,2020-05-25,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+146114572,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/16/2020,H00.013,Andrea Luzanilla,1975-06-13,KPIC - Kaiser Permanente (KPIC1),,96061837a66116,,,$305.00,$305.00,$0.00,$0.00,$0.00,$0.00,$305.00,$0.00,,2020-05-26,2020-05-27,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+146172656,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/18/2020,"A60.00, Z98.890",Catherine J. Little,1945-06-23,Caremore Health Plan (CARMO),,ARK223M97313,,,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,2020-05-25,2020-05-25,Payer Acknowledged
+,,,,,99443: PHONE E/M PHYS/QHP 21-30 MIN,Modifiers: ,Dx Ptrs: 1:2:0:0,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+146207722,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/19/2020,"I87.2, L97.519, E11.59",Guadalupe Medina,1941-08-12,Prospect Medical Group (PROSP),,97578165E,,,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,2020-05-26,2020-05-26,Payer Acknowledged
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+146260794,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/20/2020,"Z12.4, Z01.419, Z11.51, N92.0, E11.65",Sabrina Feltenberger,1967-10-02,St. Jude Affiliated Physicians (STJOE),,XEH906021409,,,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,2020-05-26,2020-05-26,Payer Acknowledged
+,,,,,99396: PREV VISIT EST AGE 40-64,Modifiers: 25,Dx Ptrs: 1:2:3:0,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+145318592,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/05/2020,I10,Sheryl D. Diamond-Mosier,1967-01-24,Prospect Medical Group (PROSP),,XDM000401643,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-05-13,2020-05-13,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+145363083,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/06/2020,"R42, I10, G81.91",Tsion Dagne,1943-09-26,Prospect Medical Group (PROSP),,93419948E,,,$210.00,$210.00,$0.00,$0.00,$0.00,$0.00,$210.00,$0.00,,2020-05-16,2020-05-16,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 25,Dx Ptrs: 1:2:3:0,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+,,,,,36415: ROUTINE VENIPUNCTURE,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$30.00,1.00,$30.00,$30.00,$0.00,$0.00,$0.00,$0.00,$30.00,$0.00,,,,
+145364733,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/05/2020,"J44.9, I10, Z95.3, Z79.01",Catherine J. Little,1945-06-23,Caremore Health Plan (CARMO),,ARK223M97313,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-05-13,2020-05-13,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+145505656,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/08/2020,"I10, R42, E11.65",Tsion Dagne,1943-09-26,Prospect Medical Group (PROSP),,93419948E,,,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,2020-05-17,2020-05-17,Payer Acknowledged
+,,,,,99443: PHONE E/M PHYS/QHP 21-30 MIN,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+145511992,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/06/2020,"I10, R53.83, R00.1, Z79.01, Z95.3, Z98.890",Catherine J. Little,1945-06-23,Caremore Health Plan (CARMO),,ARK223M97313,,,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,2020-05-16,2020-05-16,Payer Acknowledged
+,,,,,99443: PHONE E/M PHYS/QHP 21-30 MIN,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+145652185,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/08/2020,N99.89,Enzo M. Curiale,2019-04-11,Genesis Healthcare (EMG) (PROSP),,NCF985M76252,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-05-17,2020-05-17,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+145669942,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/09/2020,"R50.9, R11.10, M79.10, R51, R19.7",Michael Flynn,1967-03-22,Blue Cross of California (47198),,LSA151A67629,,,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,2020-05-17,2020-05-17,Payer Acknowledged
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:2:3:4,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+145761644,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/13/2020,"F33.1, F41.9, Z87.01, R00.2, Z79.891",Adam Garcia,1983-04-02,Apple Care Medical Management (APP01),,NCF740W03759,,,$150.00,-$850.00,"$1,000.00",$0.00,$0.00,$50.00,-$900.00,$0.00,,2020-05-20,2020-05-20,ERA Denied
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,-$850.00,"$1,000.00",$0.00,$0.00,$50.00,-$900.00,$0.00,,,,
+145819913,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/13/2020,"Z01.419, Z12.4, Z11.51, R19.6, N76.0, R30.0",Brandy Macauley,1980-12-01,Apple Care Medical Management (APP01),,XEH909653002,,,$590.00,$590.00,$0.00,$0.00,$0.00,$0.00,$590.00,$0.00,,2020-05-19,2020-07-10,Rejected Payer: None
+,,,,,G0439: Ppps subseq visit,Modifiers: 25,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,G0101: Ca screenpelvicbreast exam,Modifiers: ,Dx Ptrs: 1:2:3:0,,,,$175.00,1.00,$175.00,$175.00,$0.00,$0.00,$0.00,$0.00,$175.00,$0.00,,,,
+,,,,,96127: BRIEF EMOTIONAL/BEHAV ASSMT,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$50.00,1.00,$50.00,$50.00,$0.00,$0.00,$0.00,$0.00,$50.00,$0.00,,,,
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: ,Dx Ptrs: 4:5:6:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+145855172,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/13/2020,"R10.30, G43.909",Elizabeth (Liz) Sanchez,1984-03-24,St. Jude Affiliated Physicians (STJOE),,XEH909525211,,,$215.00,-$161.24,$376.24,$0.00,$0.00,$0.00,-$161.24,$0.00,"Adriana Martinez: Per Availity, pt got ins retro dated under SJ to cover DOS. Resent claim to St Jude AM  [07/28/2020]",2020-05-20,2020-07-28,Payer Acknowledged
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$215.00,1.00,$215.00,-$161.24,$376.24,$0.00,$0.00,$0.00,-$161.24,$0.00,,,,
+144610241,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/23/2020,"I10, E29.1",Manuel (Manny) Gutierrez,1944-06-05,Caremore Health Plan (CARMO),,ARK626M97316,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-04-29,2020-04-29,Payer Acknowledged
+,,,,,99442: PHONE E/M PHYS/QHP 11-20 MIN,Modifiers: ,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+144950837,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/04/2020,"N91.2, Z33.1",Brittany Jacobs,1992-01-18,Prospect Medical Group (PROSP),,JQV877M84623,,,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,2020-05-11,2020-05-11,Payer Acknowledged
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+144974961,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/01/2020,"K05.6, K04.7, R53.83, Z96.5",Adela Tortora,1946-11-03,Caremore Health Plan (CARMO),,ARK547M97318,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-05-11,2020-05-11,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+145021326,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/29/2020,"R21, Z86.14",Nancy Frazer,1974-08-26,Prospect Medical Group (PROSP),,XEE902324041,,,$250.00,$250.00,$0.00,$0.00,$0.00,$0.00,$250.00,$0.00,,2020-05-10,2020-05-10,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,Q3014: Telehealth facility fee,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$100.00,1.00,$100.00,$100.00,$0.00,$0.00,$0.00,$0.00,$100.00,$0.00,,,,
+145048380,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/29/2020,"M54.16, G83.24, F17.219, Z96.698",Colleen Gagnon,1965-03-11,Prospect Medical Group (PROSP),,XEE980342942,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-05-10,2020-05-10,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+145115097,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/01/2020,"H60.10, Z86.14",Nancy Frazer,1974-08-26,Prospect Medical Group (PROSP),,XEE902324041,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-05-11,2020-05-11,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: ,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+145162861,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/01/2020,"J30.9, H54.0X55",Anna Garzya,1969-07-15,Prospect Medical Group (PROSP),,94963796A,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-05-11,2020-05-11,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+145189450,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/04/2020,"Z00.01, R93.0, R73.03, I10, Z90.710, Z86.010",Smita J. Desai,1954-04-02,St. Jude Affiliated Physicians (STJOE),877-270-7226,40033746401,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-05-11,2020-05-11,Payer Acknowledged
+,,,,,G0439: Ppps subseq visit,Modifiers: 25:95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+145252301,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/04/2020,Z00.110,Hosanna Buranatt,2020-04-29,St. Jude Affiliated Physicians (STJOE),,U3257596502,,,$175.00,$175.00,$0.00,$0.00,$0.00,$0.00,$175.00,$0.00,Adriana Martinez: claim denied d/t mbr not found. Updated payer and resent claim AM  [05/12/2020],2020-05-11,2020-05-12,Payer Acknowledged
+,,,,,99381: INIT PM E/M NEW PAT INFANT,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$175.00,1.00,$175.00,$175.00,$0.00,$0.00,$0.00,$0.00,$175.00,$0.00,,,,
+145368614,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/04/2020,"R05, R06.00, Z79.891, F11.11, F33.1, F41.9, R50.9, Z87.01",Adam Garcia,1983-04-02,Apple Care Medical Management (APP01),,NCF740W03759,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,Jaimie Tanner: insurance applied copay- resent with CS mod first  [06/26/2020],2020-05-11,2020-06-26,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS:UH:95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+144156660,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/10/2020,"J45.40, K21.9, R07.9",Ayisha Tahir,1980-10-30,Prospect Medical Group (PROSP),,R04441237,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-04-16,2020-04-16,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+144171623,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/11/2020,"I10, R05, J30.9, M25.562",Erlinda Ureta,1923-10-12,Genesis Healthcare (EMG) (PROSP),,124167501,,,$305.00,$305.00,$0.00,$0.00,$0.00,$0.00,$305.00,$0.00,,2020-04-17,2020-04-17,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+144172376,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/11/2020,K21.9,Liset Y. Naranjo,1980-12-13,Prospect Medical Group (PROSP),,U6441523902,,,$305.00,$305.00,$0.00,$0.00,$0.00,$0.00,$305.00,$0.00,,2020-04-17,2020-04-17,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+144252292,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/14/2020,H00.039,Marie A. Luce,1948-02-28,Caremore Health Plan (CARMO),,ARK573M97380,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-04-17,2020-04-17,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+144292976,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/14/2020,"H43.399, H53.9",Gabriela Alvarado Zavala,1973-02-27,Apple Care Medical Management (APP01),,JQV175M77522,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-04-20,2020-04-20,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+144294111,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Gerges,04/14/2020,L03.213,Lyndel Casler,1951-01-09,Prospect Medical Group (PROSP),877-270-7226,40009512901,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-04-17,2020-04-17,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+144406849,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/16/2020,"R10.2, N94.6",Katrina Schwerdt,1987-06-26,Prospect Medical Group (PROSP),,W255094231,,,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,2020-04-18,2020-04-18,Payer Acknowledged
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+144497003,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/16/2020,"N18.4, N17.9, R94.5, R10.9",Cecelia E. Lafrance,1952-11-07,St. Jude Affiliated Physicians (STJOE),,JQS158M91998,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-04-18,2020-04-18,Payer Acknowledged
+,,,,,99442: PHONE E/M PHYS/QHP 11-20 MIN,Modifiers: ,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+144554444,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/18/2020,"R09.82, J30.9, E11.65",Erlinda Ureta,1923-10-12,Genesis Healthcare (EMG) (PROSP),,124167501,,,$305.00,$305.00,$0.00,$0.00,$0.00,$0.00,$305.00,$0.00,,2020-04-20,2020-04-20,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: GT,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+144618586,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/20/2020,"J45.909, J30.9, G43.709",Anna Garzya,1969-07-15,Prospect Medical Group (PROSP),,94963796A,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-04-23,2020-04-23,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+138599983,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/07/2020,"R05, G56.01, M85.80, M25.551",Alma M. Duff,1958-05-04,Prospect Medical Group (PROSP),,H68741031,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-04-15,2020-04-15,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+142136624,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/08/2020,"M79.671, J30.9",Jessica A. Wallace-Cooper,1983-03-03,Prospect Medical Group (PROSP),,U5769911002,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-04-15,2020-04-15,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+143931643,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/06/2020,"J30.9, R05, Z87.891",Daniel Brooks,1992-09-08,Prospect Medical Group (PROSP),,U7439381001,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-04-15,2020-04-15,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+143970966,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/07/2020,"H54.0X55, R06.00, R19.7, J45.909",Anna Garzya,1969-07-15,Prospect Medical Group (PROSP),,94963796A,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-04-15,2020-04-15,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+143987997,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/08/2020,"J44.9, I10, N18.3, E11.22, E83.52, E21.3, Z87.891, Z99.81",Kathleen (Kathy) E. Szceszinski,1949-05-23,Medicare of California Southern (01182),,1NG9YM3TM43,,,$180.00,$121.10,$58.90,$0.00,$0.00,$0.00,$121.10,$0.00,,2020-04-15,2020-04-15,Coordination of Benefits
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$180.00,1.00,$180.00,$121.10,$58.90,$0.00,$0.00,$0.00,$121.10,$0.00,,,,
+143990002,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/09/2020,"I10, R74.0, E66.01, R73.03",Kelly S. Mcdougall,1967-05-06,Prospect Medical Group (PROSP),,R05637907,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-04-16,2020-04-16,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+144020206,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/08/2020,B34.9,Ronald A. Pearson,1966-02-21,Apple Care Medical Management (APP01),,896361701,,,$92.00,$92.00,$0.00,$0.00,$0.00,$0.00,$92.00,$0.00,Jaimie Tanner: resent with CS mod  [06/02/2020],2020-04-15,2020-06-02,Payer Acknowledged
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,U0002: SARS-CoV-2 non-CDC tests,Modifiers: CS,Dx Ptrs: 1:0:0:0,,,,$52.00,1.00,$52.00,$52.00,$0.00,$0.00,$0.00,$0.00,$52.00,$0.00,,,,
+144034477,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/08/2020,"R06.00, R06.2, R05, E66.01",Bryanna Taylor,1992-04-14,Genesis Healthcare (EMG) (PROSP),,AH99029101,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,Jaimie Tanner: NO COPAY- COVID SUSPECT  [04/08/2020],2020-04-15,2020-04-15,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+144048188,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/09/2020,"J30.9, F33.1, M25.562, M54.5, R06.02, R06.1",Joni K. Mcdougall,1960-05-25,Prospect Medical Group (PROSP),,R05637907,,,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,2020-04-16,2020-04-16,Payer Acknowledged
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+144143095,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/10/2020,"H54.0X55, J45.909, J30.9",Anna Garzya,1969-07-15,Prospect Medical Group (PROSP),,94963796A,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-04-16,2020-04-16,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+143589490,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/02/2020,"E87.6, R74.8, R94.5, E66.01, E03.9",Lois S. Burch,1953-10-10,Prospect Medical Group (PROSP),,H62253643,,,$105.00,$105.00,$0.00,$0.00,$0.00,$0.00,$105.00,$0.00,,2020-04-14,2020-04-14,Payer Acknowledged
+,,,,,36415: ROUTINE VENIPUNCTURE,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$30.00,1.00,$30.00,$30.00,$0.00,$0.00,$0.00,$0.00,$30.00,$0.00,,,,
+,,,,,99212: OFFICE/OUTPATIENT VISIT EST,Modifiers: 25,Dx Ptrs: 1:2:3:4,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+143597412,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/02/2020,"I10, R73.03",Randy J. Loy,1974-08-18,Prospect Medical Group (PROSP),,R06288308,,,$105.00,$105.00,$0.00,$0.00,$0.00,$0.00,$105.00,$0.00,,2020-04-14,2020-04-14,Payer Acknowledged
+,,,,,36415: ROUTINE VENIPUNCTURE,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$30.00,1.00,$30.00,$30.00,$0.00,$0.00,$0.00,$0.00,$30.00,$0.00,,,,
+,,,,,99212: OFFICE/OUTPATIENT VISIT EST,Modifiers: 25,Dx Ptrs: 1:2:0:0,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+143617068,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/02/2020,"R32, E11.22",Jacqueline (Jackie) A. Webber,1946-12-02,Prospect Medical Group (PROSP),,AMP980471552,,,$105.00,$105.00,$0.00,$0.00,$0.00,$0.00,$105.00,$0.00,,2020-04-14,2020-04-14,Payer Acknowledged
+,,,,,36415: ROUTINE VENIPUNCTURE,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$30.00,1.00,$30.00,$30.00,$0.00,$0.00,$0.00,$0.00,$30.00,$0.00,,,,
+,,,,,99212: OFFICE/OUTPATIENT VISIT EST,Modifiers: 25,Dx Ptrs: 1:2:0:0,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+143733025,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/02/2020,"E11.22, N18.3",Cecelia E. Lafrance,1952-11-07,St. Jude Affiliated Physicians (STJOE),,JQS158M91998,,,$105.00,$105.00,$0.00,$0.00,$0.00,$0.00,$105.00,$0.00,,2020-04-14,2020-04-14,Payer Acknowledged
+,,,,,36415: ROUTINE VENIPUNCTURE,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$30.00,1.00,$30.00,$30.00,$0.00,$0.00,$0.00,$0.00,$30.00,$0.00,,,,
+,,,,,99212: OFFICE/OUTPATIENT VISIT EST,Modifiers: 25,Dx Ptrs: 1:2:0:0,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+143763856,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/02/2020,R07.9,Sebastian Anahui,2000-09-01,Prospect Medical Group (PROSP),,NCF841A52491,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-04-14,2020-04-14,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+143768761,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/02/2020,R07.0,Sarah E. Maust,1974-09-10,St. Jude Affiliated Physicians (STJOE),,XEH904841299,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-04-14,2020-04-14,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+143785183,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/06/2020,"I10, E66.9",Sergey Petrenko,1960-06-28,Apple Care Medical Management (APP01),,XEH909770525,,,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,Jaimie Tanner: Chiron payment declined  [04/15/2020],2020-04-15,2020-04-15,Payer Acknowledged
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+143866503,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/04/2020,"B34.9, R06.2",Bryanna Taylor,1992-04-14,Genesis Healthcare (EMG) (PROSP),,AH99029101,,,$305.00,$305.00,$0.00,$0.00,$0.00,$0.00,$305.00,$0.00,Jaimie Tanner: no copay today [04/04/2020],2020-04-14,2020-04-14,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: GT,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+143907716,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/06/2020,"J45.20, R05",Scott Mitchell,1983-02-21,Prospect Medical Group (PROSP),,W209676947-01,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-04-15,2020-04-15,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+144107644,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/10/2020,"Z00.01, E11.22, E66.01, I48.91, D68.69, N18.4, J44.9, I87.2, I10, E03.9, Z79.01, Z86.718",Rose Giangiobbe,1935-08-03,St. Jude Affiliated Physicians (STJOE),,767784801,,,$243.00,$243.00,$0.00,$0.00,$0.00,$0.00,$243.00,$0.00,,2020-04-14,2020-04-14,Payer Acknowledged
+,,,,,99490: CHRON CARE MGMT SRVC 20 MIN,Modifiers: 95,Dx Ptrs: 2:3:4:5,,,,$43.00,1.00,$43.00,$43.00,$0.00,$0.00,$0.00,$0.00,$43.00,$0.00,,,,
+,,,,,G0439: Ppps subseq visit,Modifiers: 95:25,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,G0444: Depression screen annual,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$50.00,1.00,$50.00,$50.00,$0.00,$0.00,$0.00,$0.00,$50.00,$0.00,,,,
+141341902,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/03/2020,"E11.65, E11.22, N18.2, I10",Erlinda Ureta,1923-10-12,Genesis Healthcare (EMG) (PROSP),,124167501,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-04-10,2020-04-10,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+142799179,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,03/15/2020,B34.9,Frank Cope,1996-12-29,Bright Health -Medicare Options (BRT01),,8929300-04,,,$335.00,$335.00,$0.00,$0.00,$0.00,$0.00,$335.00,$0.00,Jaimie Tanner: resent with CS mod  [05/27/2020],2020-03-20,2020-05-27,Payer Acknowledged
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: CS:95,Dx Ptrs: 1:0:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+,,,,,99214: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS:95,Dx Ptrs: 1:0:0:0,,,,$180.00,1.00,$180.00,$180.00,$0.00,$0.00,$0.00,$0.00,$180.00,$0.00,,,,
+142829508,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,03/16/2020,"J30.9, J45.40, H92.01, I10",Michael Campanale,1948-11-02,KPIC - Kaiser Permanente (KPIC1),,0014807789,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,Jaimie Tanner: resent corrected claim  [05/13/2020],2020-03-25,2020-05-13,Payer Acknowledged
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: CS:95,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+143001095,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,03/18/2020,"B34.9, Z87.01, I49.8",Tracy Osborn,1987-08-01,Apple Care Medical Management (APP01),,XEH905930519,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,"Adriana Martinez: Pt now added to system, resent claim AM  [06/25/2020]",2020-03-25,2020-07-12,Rejected Payer: None
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS:95,Dx Ptrs: 1:2:3:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+143300666,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,03/24/2020,"R05, Z03.818",Kristiane (Kristi) Kinoshita,1990-11-14,Health Net (68069),,R10998026,,,$167.00,$167.00,$0.00,$0.00,$0.00,$0.00,$167.00,$0.00,Marina Mondragon: Forwarded to healthplan. MM [07/09/2020],2020-04-07,2020-07-09,Payer Acknowledged
+,,,,,99212: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS,Dx Ptrs: 1:2:0:0,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+,,,,,99000: SPECIMEN HANDLING OFFICE-LAB,Modifiers: ,Dx Ptrs: 1:2:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,G2023: Specimen collect COVID-19,Modifiers: ,Dx Ptrs: 1:2:0:0,,,,$52.00,1.00,$52.00,$52.00,$0.00,$0.00,$0.00,$0.00,$52.00,$0.00,,,,
+143372911,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,03/25/2020,Z23,Sage H. Lee,2018-08-15,Christian Care Ministry (Medi-Share) (59355),,09721L20840,,,$360.00,$360.00,$0.00,$0.00,$0.00,$0.00,$360.00,$0.00,,2020-04-14,2020-04-14,Payer Acknowledged
+,,,,,90700: DTAP VACCINE < 7 YRS IM,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+,,,,,90686: IIV4 VACC NO PRSV 0.5 ML IM,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,90460: IM ADMIN 1ST/ONLY COMPONENT,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$50.00,2.00,$100.00,$100.00,$0.00,$0.00,$0.00,$0.00,$100.00,$0.00,,,,
+,,,,,90461: IM ADMIN EACH ADDL COMPONENT,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$35.00,2.00,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,,,,
+,,,,,99212: OFFICE/OUTPATIENT VISIT EST,Modifiers: 25,Dx Ptrs: 1:0:0:0,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+143380346,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,03/28/2020,"J45.20, Z30.9",Camille M. Richardson,1999-11-29,Apple Care Medical Management (APP01),,NCF288W03367,,,$305.00,$305.00,$0.00,$0.00,$0.00,$0.00,$305.00,$0.00,,2020-04-06,2020-04-06,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: GT,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+143582443,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,03/30/2020,J44.1,Kristi Fiore,1975-07-02,Apple Care Medical Management (APP01),,NCF038A67897,,,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,"Adriana Martinez: Claim denied d/t ""Member not Found"" Sent paper along w/ proof of eligibility AM  [04/13/2020]",2020-04-07,2020-07-08,Payer Acknowledged
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: 95,Dx Ptrs: 1:0:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+143588404,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,03/30/2020,"W54.0XXA, L03.113",Laurie a. Hurst,1957-09-02,Apple Care Medical Management (APP01),,JQK487A63052,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,2020-04-07,2020-04-07,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: GT,Dx Ptrs: 1:2:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+143619037,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,03/30/2020,"E66.01, R05, R06.2, J01.90, Z03.818",Bryanna Taylor,1992-04-14,Genesis Healthcare (EMG) (PROSP),,AH99029101,,,$305.00,$305.00,$0.00,$0.00,$0.00,$0.00,$305.00,$0.00,,2020-04-07,2020-04-07,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: GT,Dx Ptrs: 1:2:3:5,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+,,,,,99050: MEDICAL SERVICES AFTER HRS,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$155.00,1.00,$155.00,$155.00,$0.00,$0.00,$0.00,$0.00,$155.00,$0.00,,,,
+133039101,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,01/28/2020,"Z00.00, Z87.19, Z23",Matthew Hernandez,1994-07-27,Prospect Medical Group (PROSP),,U3746907403,,,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,Marina Mondragon: Forwarded to healthplan [05/02/2020],2020-01-29,2020-05-14,Payer Acknowledged
+,,,,,90686: IIV4 VACC NO PRSV 0.5 ML IM,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+135498465,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,01/28/2020,"Z00.01, R39.11, J45.20, Z23",Cory Trunnell,1966-08-22,St. Jude Affiliated Physicians (STJOE),,XEH906577676,,,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,2020-02-04,2020-05-03,Payer Acknowledged
+,,,,,90686: IIV4 VACC NO PRSV 0.5 ML IM,Modifiers: ,Dx Ptrs: 4:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+137078708,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,02/07/2020,M65.4,Danielle Bagger,1976-04-06,Blue Cross of California (47198),,SIF330A52417,,,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,Adriana Martinez: Claim accepted for processing - pending AM  [07/15/2020],2020-02-18,2020-07-27,Payer Acknowledged
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+138083387,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,02/07/2020,"H40.009, R87.619, Z23",Roselia (Rosy) Perez,1994-10-18,Cigna (62308),,U5770186501,,,$515.00,$515.00,$0.00,$0.00,$0.00,$0.00,$515.00,$0.00,"Marina Mondragon: Cigna paid in error - AM to call and advise. 
+ [05/28/2020]",2020-02-18,2020-05-07,Internal Review
+,,,,,90651: 9VHPV VACCINE 2/3 DOSE IM,Modifiers: ,Dx Ptrs: 3:0:0:0,,,,$475.00,1.00,$475.00,$475.00,$0.00,$0.00,$0.00,$0.00,$475.00,$0.00,,,,
+,,,,,90686: IIV4 VACC NO PRSV 0.5 ML IM,Modifiers: ,Dx Ptrs: 3:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+138591586,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,02/12/2020,"F32.5, Z30.011, Z23",Erynn Henderson,1997-05-02,St. Jude Affiliated Physicians (STJOE),,XDM190A55068,,,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,Marina Mondragon: Sent back to hp for unpaid 90686 [06/08/2020],2020-02-24,2020-07-08,ERA Received
+,,,,,90686: IIV4 VACC NO PRSV 0.5 ML IM,Modifiers: ,Dx Ptrs: 3:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+138825817,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,01/22/2020,"R10.32, M70.52, Z23",Jeff Tancre,1976-09-02,St. Jude Affiliated Physicians (STJOE),,JQK860A76160,,,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,Marina Mondragon: Gave to AM to appeal. MM [03/27/2020],2020-01-28,2020-05-03,Payer Acknowledged
+,,,,,90686: IIV4 VACC NO PRSV 0.5 ML IM,Modifiers: ,Dx Ptrs: 3:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+139336201,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,02/25/2020,"Z00.129, Z23",Ezekiel (Zeke) A. Thompson,2015-04-29,Prospect Medical Group (PROSP),,U4409771606,,,$260.00,$260.00,$0.00,$0.00,$0.00,$0.00,$260.00,$0.00,Jaimie Tanner: vaccines HP resp  [05/20/2020],2020-03-04,2020-05-08,Payer Acknowledged
+,,,,,90707: MMR VACCINE SC,Modifiers: ,Dx Ptrs: 2:0:0:0,,,,$185.00,1.00,$185.00,$185.00,$0.00,$0.00,$0.00,$0.00,$185.00,$0.00,,,,
+,,,,,90744: HEPB VACC 3 DOSE PED/ADOL IM,Modifiers: ,Dx Ptrs: 2:0:0:0,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+141366613,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Add On,03/11/2020,Z30.42,Debra Robles,1987-10-23,Blue Cross of California (47198),,XDM906M99788,,,$565.00,$565.00,$0.00,$0.00,$0.00,$0.00,$565.00,$0.00,Jaimie Tanner: prospect applied copay  [04/11/2020],2020-03-17,2020-06-13,ERA Denied
+,,,,,96372: THER/PROPH/DIAG INJ SC/IM,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,J1050: Medroxyprogesterone acetate,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$3.50,150.00,$525.00,$525.00,$0.00,$0.00,$0.00,$0.00,$525.00,$0.00,,,,
+141608331,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Add On,03/04/2020,Z23,Kaia Kim,2002-10-15,Blue Cross of California (47198),,XDM812M93300,,,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,Adriana Martinez: Sent vax to hp AM  [04/13/2020],2020-03-19,2020-06-15,ERA Denied
+,,,,,90686: IIV4 VACC NO PRSV 0.5 ML IM,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+142032970,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,03/04/2020,J01.90,Jacob (Jake) W. Clemmer,2011-06-01,St. Jude Affiliated Physicians (STJOE),,XEH900588293,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,Jaimie Tanner: Gave to AM- Claim submitted to incorrect payer [06/13/2020],2020-03-14,2020-06-15,Rejected Payer: None
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: CS:95,Dx Ptrs: 1:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+133498637,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,12/09/2019,"Z00.01, Z23, E11.65, I70.0, I25.10, E11.40, G62.9, E78.5, E11.3293, M48.061, M81.0",Rafaela T. Arellano,1947-07-25,St. Jude Affiliated Physicians (STJOE),,XEE980315775,,,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,Adriana Martinez: Sent to Healthplan AM  [01/27/2020],2019-12-20,2020-05-02,Payer Acknowledged
+,,,,,90662: IIV NO PRSV INCREASED AG IM,Modifiers: ,Dx Ptrs: 2:0:0:0,,,,$70.00,1.00,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,,,,
+133870330,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,01/21/2020,"E11.9, E05.90, I10, Z23",Tsion Dagne,1943-09-26,Prospect Medical Group (PROSP),,93419948E,,,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,Jaimie Tanner: claim being processed  [05/05/2020],2020-01-28,2020-05-02,Payer Acknowledged
+,,,,,90662: IIV NO PRSV INCREASED AG IM,Modifiers: ,Dx Ptrs: 4:0:0:0,,,,$70.00,1.00,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,,,,
+134039592,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Add On,12/11/2019,"M79.606, N92.1, E55.9, Z23",Valery Arellano,2006-09-26,Monarch Healthcare IPA (IP095),,98630065E,,,$9.00,$9.00,$0.00,$0.00,$0.00,$0.00,$9.00,$0.00,Marina Mondragon: Corrected and resent for unpaid $9 MM [04/03/2020],2020-01-03,2020-07-12,Payer Acknowledged
+,,,,,90686: IIV4 VACC NO PRSV 0.5 ML IM,Modifiers: EP:SL,Dx Ptrs: 4:0:0:0,,,,$9.00,1.00,$9.00,$9.00,$0.00,$0.00,$0.00,$0.00,$9.00,$0.00,,,,
+135180548,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,12/10/2019,"H92.02, I10, Z68.28, E66.3, Z23",Stella Zarate,1935-11-25,St. Jude Affiliated Physicians (STJOE),,XEE902341123,,,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,Adriana Martinez: Submitted appeal to SJ. Clm Tracking ID: 253254 - 308753 AM  [01/29/2020],2019-12-27,2020-05-20,Payer Acknowledged
+,,,,,90662: IIV NO PRSV INCREASED AG IM,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$70.00,1.00,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,,,,
+135516760,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,01/15/2020,"E78.5, R74.8, I10, H91.90, H93.13, Z68.25, E66.3, Z23",Ovidio Mazariegos,1949-02-15,St. Jude Affiliated Physicians (STJOE),,855745901,,,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,Marina Mondragon: appeal submitted for 90662 PDR successfully submitted  [05/20/2020],2020-01-15,2020-07-08,Payer Acknowledged
+,,,,,90662: IIV NO PRSV INCREASED AG IM,Modifiers: ,Dx Ptrs: 8:0:0:0,,,,$70.00,1.00,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,,,,
+135595546,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Add On,12/10/2019,"Z23, Z28.3",Lila R. Blankenship,2015-07-30,Monarch Healthcare IPA (IP095),,91709579F,,,$27.00,$27.00,$0.00,$0.00,$0.00,$0.00,$27.00,$0.00,,2020-01-02,2020-07-12,Payer Acknowledged
+,,,,,90700: DTAP VACCINE < 7 YRS IM,Modifiers: EP:SL,Dx Ptrs: 1:0:0:0,,,,$9.00,1.00,$9.00,$9.00,$0.00,$0.00,$0.00,$0.00,$9.00,$0.00,,,,
+,,,,,90744: HEPB VACC 3 DOSE PED/ADOL IM,Modifiers: EP:SL,Dx Ptrs: 1:0:0:0,,,,$9.00,1.00,$9.00,$9.00,$0.00,$0.00,$0.00,$0.00,$9.00,$0.00,,,,
+,,,,,90713: POLIOVIRUS IPV SC/IM,Modifiers: EP:SL,Dx Ptrs: 1:0:0:0,,,,$9.00,1.00,$9.00,$9.00,$0.00,$0.00,$0.00,$0.00,$9.00,$0.00,,,,
+136130410,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,12/11/2019,"H66.92, Z23",David Trejo,2012-11-25,Monarch Healthcare IPA (IP095),,97264183F,,,$9.00,$9.00,$0.00,$0.00,$0.00,$0.00,$9.00,$0.00,,2020-01-03,2020-07-12,Payer Acknowledged
+,,,,,90686: IIV4 VACC NO PRSV 0.5 ML IM,Modifiers: EP:SL,Dx Ptrs: 2:0:0:0,,,,$9.00,1.00,$9.00,$9.00,$0.00,$0.00,$0.00,$0.00,$9.00,$0.00,,,,
+137652597,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,01/17/2020,"C54.1, C78.00, N18.3, I10, E11.22, G25.70, Z23",Carole Ginoza,1961-03-11,St. Jude Affiliated Physicians (STJOE),877-270-7226,40037544101,,,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,Jaimie Tanner: RESENT FOR FLU [05/03/2020],2020-01-27,2020-05-03,Payer Acknowledged
+,,,,,90686: IIV4 VACC NO PRSV 0.5 ML IM,Modifiers: ,Dx Ptrs: 7:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+138600253,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Add On,01/17/2020,Z11.1,Venancio (Venny) Saucedo Jr,1970-05-28,International Benefit Administrator (11329),866-258-4019,VTC1734000,,,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,2020-01-27,2020-01-27,Payer Acknowledged
+,,,,,99211: OFFICE/OUTPATIENT VISIT EST,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$75.00,1.00,$75.00,$75.00,$0.00,$0.00,$0.00,$0.00,$75.00,$0.00,,,,
+138766390,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,01/21/2020,"K51.90, M10.9, N40.0, M79.643, J30.9, D84.9, Z23, Z95.0",Carlos J. Rivera,1951-08-15,St. Jude Affiliated Physicians (STJOE),,JQQ897M98958,,,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,,2020-01-28,2020-05-03,Payer Acknowledged
+,,,,,90662: IIV NO PRSV INCREASED AG IM,Modifiers: ,Dx Ptrs: 7:0:0:0,,,,$70.00,1.00,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,,,,
+131700729,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,11/08/2019,"Z01.818, K02.9, I73.9, I25.10, I10, Z68.29, E66.3, Z23",Saturnino Rodriguez Esparza,1932-11-29,Monarch Healthcare IPA (IP095),,40035614201,,,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,Marina Mondragon: claim resent was not prospect on dos [07/12/2020],2019-11-18,2020-07-12,Payer Acknowledged
+,,,,,90662: IIV NO PRSV INCREASED AG IM,Modifiers: ,Dx Ptrs: 8:0:0:0,,,,$70.00,1.00,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,,,,
+131705029,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,11/15/2019,"Z00.01, Z23, F33.1, J44.9, I10, F10.188, E03.9, E55.9, R39.81, M48.54XS, S22.080S, D75.1, D52.9, Z91.81, Z87.891, Z68.22",Joan E. Byrnes,1934-10-23,St. Jude Affiliated Physicians (STJOE),,916849301,,,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,,2019-11-21,2020-05-14,Internal Review
+,,,,,90662: IIV NO PRSV INCREASED AG IM,Modifiers: ,Dx Ptrs: 2:0:0:0,,,,$70.00,1.00,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,,,,
+131737257,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,11/25/2019,"E11.65, E11.22, Z68.30, E66.09, Z23",Pamela Patterson,1953-06-06,St. Jude Affiliated Physicians (STJOE),,40034969501,,,$70.00,$70.00,$0.00,$8.97,$0.00,$0.00,$61.03,$0.00,Jaimie Tanner: claim pending- submit appeal if goes unpaid  [06/11/2020],2019-12-04,2020-05-23,Payer Acknowledged
+,,,,,90662: IIV NO PRSV INCREASED AG IM,Modifiers: ,Dx Ptrs: 5:0:0:0,,,,$70.00,1.00,$70.00,$70.00,$0.00,$8.97,$0.00,$0.00,$61.03,$0.00,,,,
+132227203,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,11/05/2019,"N18.3, I10, Z68.23, Z23",Alice Avila,1935-11-07,St. Jude Affiliated Physicians (STJOE),,31011977801,,,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,Jaimie Tanner: Claim In process  [05/07/2020],2019-11-14,2020-05-02,Payer Acknowledged
+,,,,,90662: IIV NO PRSV INCREASED AG IM,Modifiers: ,Dx Ptrs: 4:0:0:0,,,,$70.00,1.00,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,,,,
+132981286,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,12/18/2019,"Z00.01, Z23, N18.3, E11.42, I25.10, E13.42, F10.11, I10, I48.91, D69.2, Z79.01, Z91.81, Z95.5, E66.3, Z68.28",Steve W. Guinn,1946-08-14,St. Jude Affiliated Physicians (STJOE),,616955601,,,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,Jaimie Tanner: claim pending- resub appeal if goes unpaid [06/11/2020],2019-12-18,2020-05-20,Payer Acknowledged
+,,,,,90662: IIV NO PRSV INCREASED AG IM,Modifiers: ,Dx Ptrs: 2:0:0:0,,,,$70.00,1.00,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,,,,
+133623342,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,11/08/2019,"I48.91, W22.8XXD, T14.8XXA, S01.01XD, Z79.01, Z23",Celso G. Martinez,1934-04-06,Medicare of California Southern (01182),,2H95A18UY57,,,$120.00,$120.00,$0.00,$0.00,$0.00,$0.00,$120.00,$0.00,Marina Mondragon: corrected and resent - still was unpaid. MM [02/13/2020],2019-11-18,2020-05-12,Internal Review
+,,,,,90715: TDAP VACCINE 7 YRS/> IM,Modifiers: ,Dx Ptrs: 2:3:4:6,,,,$80.00,1.00,$80.00,$80.00,$0.00,$0.00,$0.00,$0.00,$80.00,$0.00,,,,
+,,,,,90471: IMMUNIZATION ADMIN,Modifiers: ,Dx Ptrs: 2:3:4:6,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+134820291,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Add On,11/22/2019,"Z23, Z28.3",Sage S. Baumgartner,2006-06-14,Monarch Healthcare IPA (IP095),,98423817F,,,$9.00,$9.00,$0.00,$0.00,$0.00,$0.00,$9.00,$0.00,Jaimie Tanner: SENT CORRECTED CLAIM [04/06/2020],2019-11-23,2020-04-06,Payer Acknowledged
+,,,,,90396: VARICELLA-ZOSTER IG IM,Modifiers: SL,Dx Ptrs: 1:0:0:0,,,,$9.00,1.00,$9.00,$9.00,$0.00,$0.00,$0.00,$0.00,$9.00,$0.00,,,,
+135130492,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,11/27/2019,"M54.16, I10, Z23, Z68.32, E66.09",Jason Heard,1978-07-21,St. Jude Affiliated Physicians (STJOE),,NCF859A77786,,,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,2019-12-06,2020-05-02,Payer Acknowledged
+,,,,,90686: IIV4 VACC NO PRSV 0.5 ML IM,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+136424151,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Add On,12/18/2019,Z23,Vera Sanchez,1944-08-25,St. Jude Affiliated Physicians (STJOE),877-270-7226,310714086-01,,,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,Marina Mondragon: submitted appeal on st jude website for unpaid 90662. need to omit q2038 and pay 90662. MM [05/21/2020],2019-12-18,2020-01-28,Internal Review
+,,,,,90662: IIV NO PRSV INCREASED AG IM,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$70.00,1.00,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,,,,
+136578231,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,12/18/2019,"R35.0, R32, Z23",Jane Hale,2009-07-09,St. Jude Affiliated Physicians (STJOE),,XEH902907398,,,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,Marina Mondragon: printed for st jude  rep unpaid 90686. MM [02/17/2020],2019-12-18,2020-05-02,Payer Acknowledged
+,,,,,90686: IIV4 VACC NO PRSV 0.5 ML IM,Modifiers: ,Dx Ptrs: 3:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+115004168,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Add On,01/21/2019,Z23,Juliet Flores,2009-08-12,St. Jude Affiliated Physicians (STJOE),,XEHJ05840983,,,$90.00,$53.96,$36.04,$18.96,$0.00,$0.00,$35.00,$0.00,,2019-10-28,2020-05-02,Payer Acknowledged
+,,,,,90686: IIV4 VACC NO PRSV 0.5 ML IM,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,90460: IM ADMIN 1ST/ONLY COMPONENT,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$50.00,1.00,$50.00,$13.96,$36.04,$18.96,$0.00,$0.00,-$5.00,$0.00,,,,
+115684887,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,02/05/2019,"R35.0, Z23, E66.3, Z68.25",Nicholas Hernandez,1993-08-12,St. Jude Affiliated Physicians (STJOE),,XEH908954062,,,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,"Jaimie Tanner: May 7th, 2020, 10:30 AMJaimie Tanner
+
+$20 2/5/19 copay
+
+May 7th, 2020, 2:33 PMAmanda Kleven
+
+Called pt for balance. LMTC. AK
+
+May 19th, 2020, 2:35 PMAmanda Kleven
+
+Called pt for balance. LMTC. AK [05/19/2020]",2019-10-28,2020-05-02,Payer Acknowledged
+,,,,,90686: IIV4 VACC NO PRSV 0.5 ML IM,Modifiers: ,Dx Ptrs: 4:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+126814832,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,10/29/2019,"Z00.01, M54.16, I10, R80.9, G47.00, Z23, Z68.31, E66.09, Z12.11",Cesar Mazariegos,1951-01-08,St. Jude Affiliated Physicians (STJOE),,855329701,,,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,Adriana Martinez: Rec'd notice from AARP req primary insurer EOP to be sent. Faxed info to 888-360-0755 AM  [02/17/2020],2019-11-04,2020-05-14,Payer Acknowledged
+,,,,,90662: IIV NO PRSV INCREASED AG IM,Modifiers: ,Dx Ptrs: 6:0:0:0,,,,$70.00,1.00,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,,,,
+127598396,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,08/20/2019,"E11.9, E78.5, I10, Z68.26, E66.3, Z23",James (Jim) W. Frantz Jr.,1953-12-30,Blue Shield of California (94036),,XEM909716542,,,$150.00,$40.00,$110.00,$0.00,$0.00,$0.00,$40.00,$0.00,Marina Mondragon: forwarded to bluecross for vaccines. MM [09/03/2019],2019-08-22,2020-06-05,Payer Acknowledged (Secondary)
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: 25,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$40.00,$110.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+128866958,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,09/04/2019,"R42, R11.0, K21.9, R05, Z68.25, E66.3",Helen Badal,1940-12-15,Anthem Blue Cross (47198),,XDD275A66581,,,$150.00,$81.53,$68.47,$64.96,$0.00,$0.00,$16.57,$0.00,Marina Mondragon: dob discrepancy - has dob as 12/29/1943 [07/14/2020],2019-09-12,2020-07-15,Payer Acknowledged (Secondary)
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: ,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$81.53,$68.47,$64.96,$0.00,$0.00,$16.57,$0.00,,,,
+129479938,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,09/17/2019,"Z00.01, C82.50, I10, N18.3, E11.29, Z23, Z68.41, E66.01, Z87.01, Z12.11, Z13.820, Z85.038",Carol A. Smith,1948-12-11,Blue Cross of California (47198),,JQI852A78856,,,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,Marina Mondragon: Gave to AM to check status of claim [04/26/2020],2019-09-23,2020-07-27,Payer Acknowledged
+,,,,,90732: PPSV23 VACC 2 YRS+ SUBQ/IM,Modifiers: ,Dx Ptrs: 6:0:0:0,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
+131164983,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,10/09/2019,"Z12.4, Z01.419, Z11.51, F33.1, J30.9, Z68.23, Z23",Dawn Maellaro,1959-03-14,Apple Care Medical Management (APP01),,469580501,,,$200.00,$50.00,$150.00,$0.00,$0.00,$0.00,$50.00,$0.00,Adriana Martinez: Appeal in review AM  [06/23/2020],2019-10-10,2019-12-02,Internal Review
+,,,,,G0439: Ppps subseq visit,Modifiers: 25,Dx Ptrs: 1:2:3:0,,,,$200.00,1.00,$200.00,$50.00,$150.00,$0.00,$0.00,$0.00,$50.00,$0.00,,,,
+131199303,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,11/05/2019,"M79.7, F11.20, Z68.33, E66.09, Z23",Cecelia E. Lafrance,1952-11-07,St. Jude Affiliated Physicians (STJOE),,JQS158M91998,,,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,,2019-11-05,2020-05-21,Payer Acknowledged
+,,,,,90662: IIV NO PRSV INCREASED AG IM,Modifiers: ,Dx Ptrs: 5:0:0:0,,,,$70.00,1.00,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,,,,
+131690056,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,10/30/2019,"N64.4, N63.25, M25.551, Z68.21, Z23",Johanna (JO) Lundgren,1950-10-31,St. Jude Affiliated Physicians (STJOE),,XEE980254981,,,$70.00,$70.00,$0.00,$35.67,$0.00,$0.00,$34.33,$0.00,Jaimie Tanner: submitted appeal  [01/30/2020],2019-11-08,2020-05-05,Payer Acknowledged
+,,,,,90662: IIV NO PRSV INCREASED AG IM,Modifiers: ,Dx Ptrs: 5:0:0:0,,,,$70.00,1.00,$70.00,$70.00,$0.00,$35.67,$0.00,$0.00,$34.33,$0.00,,,,
+132106882,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Add On,10/23/2019,Z23,Kathleen (Kathie) A. Heller,1949-09-27,St. Jude Affiliated Physicians (STJOE),,907655801,,,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,Jaimie Tanner: Claim In process  [05/07/2020],2019-10-25,2020-05-02,Payer Acknowledged
+,,,,,90662: IIV NO PRSV INCREASED AG IM,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$70.00,1.00,$70.00,$70.00,$0.00,$0.00,$0.00,$0.00,$70.00,$0.00,,,,
+115075178,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,01/23/2019,"E11.22, E78.5, I10, Z68.24, R80.9, D56.3, Z23",Jennifer Kin,1970-11-15,St. Jude Affiliated Physicians (STJOE),,R02804694,,,$80.00,$80.00,$0.00,$0.00,$0.00,$0.00,$80.00,$0.00,Marina Mondragon: Gave to AK to collect copay. MM [06/04/2020],2019-08-09,2020-05-02,Payer Acknowledged
+,,,,,90686: IIV4 VACC NO PRSV 0.5 ML IM,Modifiers: ,Dx Ptrs: 1:7:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,90471: IMMUNIZATION ADMIN,Modifiers: ,Dx Ptrs: 1:7:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+115226699,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,02/19/2019,"Z00.129, Z23, Z01.00, Z68.52",Katherine (Grace) G. Ritz,2003-06-18,St. Jude Affiliated Physicians (STJOE),,XEH904853964,,,$90.00,$90.00,$0.00,$0.00,$0.00,$0.00,$90.00,$0.00,Adriana Martinez: Claim denied d/t timely. Sent appeal to SJ. SJ Tracking ID #261348 - 317208. AM  [04/06/2020],2019-08-09,2020-05-02,Payer Acknowledged
+,,,,,90686: IIV4 VACC NO PRSV 0.5 ML IM,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$40.00,1.00,$40.00,$40.00,$0.00,$0.00,$0.00,$0.00,$40.00,$0.00,,,,
+,,,,,90460: IM ADMIN 1ST/ONLY COMPONENT,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$50.00,1.00,$50.00,$50.00,$0.00,$0.00,$0.00,$0.00,$50.00,$0.00,,,,
+119922328,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,04/10/2019,"J30.9, J45.40, Z30.41, Z68.22",Leticia Roldan,1993-03-12,International Benefit Administrator (11329),866-258-4019,VTC1509500,,,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,Adriana Martinez: Sent paper along w/ med reords AM  [04/23/2020],2019-06-10,2020-07-08,Payer Acknowledged
+,,,,,99203: OFFICE/OUTPATIENT VISIT NEW,Modifiers: ,Dx Ptrs: 1:3:4:0,,,,$215.00,1.00,$215.00,$215.00,$0.00,$0.00,$0.00,$0.00,$215.00,$0.00,,,,
+121116499,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/01/2019,Z23,Derek J. Reyes,2014-11-13,Monarch Healthcare IPA (IP095),,97531518F,,,$18.00,$18.00,$0.00,$0.00,$0.00,$0.00,$18.00,$0.00,"Adriana Martinez: CHDP not sent, sent now  [08/01/2019]",2019-05-09,2020-07-12,Payer Acknowledged
+,,,,,90696: DTAP-IPV VACCINE 4-6 YRS IM,Modifiers: EP:SL,Dx Ptrs: 1:0:0:0,,,,$9.00,1.00,$9.00,$9.00,$0.00,$0.00,$0.00,$0.00,$9.00,$0.00,,,,
+,,,,,90707: MMR VACCINE SC,Modifiers: EP:SL,Dx Ptrs: 1:0:0:0,,,,$9.00,1.00,$9.00,$9.00,$0.00,$0.00,$0.00,$0.00,$9.00,$0.00,,,,
+121157365,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Add On,05/01/2019,Z30.9,Debra Robles,1987-10-23,Blue Cross of California (47198),,XDM906M99788,,,$600.00,$545.00,$55.00,$0.00,$0.00,$20.00,$545.00,-$20.00,Jaimie Tanner: working with felix at prospect to get paid  [07/08/2020],2019-05-09,2020-06-05,Internal Review
+,,,,,99211: OFFICE/OUTPATIENT VISIT EST,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$75.00,1.00,$75.00,$20.00,$55.00,$0.00,$0.00,$20.00,$20.00,-$20.00,,,,
+,,,,,J1050: Medroxyprogesterone acetate,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$3.50,150.00,$525.00,$525.00,$0.00,$0.00,$0.00,$0.00,$525.00,$0.00,,,,
+122009373,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,05/14/2019,"Q93.88, R05, E66.3, Z68.27",Michael (Mike) S. Smith,1981-01-08,Medicare of California Southern (01182),,8HG1XG8QP25,,,$150.00,$82.86,$67.14,$0.00,$0.00,$0.00,$82.86,$0.00,Jaimie Tanner: appeal with medicare- gave to AM  [06/15/2020],2019-05-15,2020-06-05,Payer Acknowledged
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: ,Dx Ptrs: 1:2:3:4,,,,$150.00,1.00,$150.00,$82.86,$67.14,$0.00,$0.00,$0.00,$82.86,$0.00,,,,
+125937469,"Dr. Kristine Percy, MD",Percy & Stearns Family Medicine,Dr Percy,07/24/2019,"Z00.01, R03.0, E78.5, G47.00, Z82.49, E66.09, Z68.32",Kathleen (Kathy) Maher,1955-05-15,HealthPartners (44547),,51767290,,,$400.00,$400.00,$0.00,$0.00,$0.00,$0.00,$400.00,$0.00,"Adriana Martinez: Clm denied d/t missing info. Unable to submit online, sent paper AM  [05/04/2020]",2019-07-30,2020-04-15,Mailed Paper Claim
+,,,,,99396: PREV VISIT EST AGE 40-64,Modifiers: 25,Dx Ptrs: 1:0:0:0,,,,$200.00,1.00,$200.00,$200.00,$0.00,$0.00,$0.00,$0.00,$200.00,$0.00,,,,
+,,,,,96127: BRIEF EMOTIONAL/BEHAV ASSMT,Modifiers: ,Dx Ptrs: 1:0:0:0,,,,$50.00,1.00,$50.00,$50.00,$0.00,$0.00,$0.00,$0.00,$50.00,$0.00,,,,
+,,,,,99213: OFFICE/OUTPATIENT VISIT EST,Modifiers: ,Dx Ptrs: 2:3:4:5,,,,$150.00,1.00,$150.00,$150.00,$0.00,$0.00,$0.00,$0.00,$150.00,$0.00,,,,
